@@ -18,7 +18,7 @@ e2m5 "SM Max" 4:39 "William Huber" H2M5-439.zip
 e2m5 "SM Max" 6:14 "JC" H2M5-614.zip
 e2m1 "Pacifist" 24 "JC" H2p1-024.zip
 e2m5 "Pacifist" 24 "JC" H2p5-024.zip
-e3m2 "SM Speed" 38 "-=QWERTY=-" H3S2-038.zip
+e3m2 "SM Speed" 38 "QWERTY" H3S2-038.zip
 e3m9 "SM Speed" 39 "Radek Pecka" H3s9-039.zip
 e4m1 "BP Speed" 1:21 "Hitherto" H4B1-121.zip
 e4m6 "SM Max" 6:21 "William Huber" H4M6-621.zip
@@ -31,24 +31,24 @@ e6m1 "Pacifist" 26 "JC" H6p1-026.zip
 e1m1 "BP Speed" 28 "Vincent Catalaa" h1b1-028.zip
 e1m1 "BP Speed" 32 "Vincent Catalaa" h1b1-032.zip
 e1m2 "BP Speed" 1:15 "Xit Vono" h1b2-115.zip
-e1m2 "BP Speed" 1:18 "-=QWERTY=-" h1b2-118.zip
-e1m2 "BP Speed" 1:26 "-=QWERTY=-" h1b2-126.zip
-e1m2 "BP Speed" 1:34 "-=QWERTY=-" h1b2-134.zip
+e1m2 "BP Speed" 1:18 "QWERTY" h1b2-118.zip
+e1m2 "BP Speed" 1:26 "QWERTY" h1b2-126.zip
+e1m2 "BP Speed" 1:34 "QWERTY" h1b2-134.zip
 e1m2 "BP Speed" 1:53 "Vincent Catalaa" h1b2-153.zip
-e1m3 "BP Speed" 46 "-=QWERTY=-" h1b3-046.zip
-e1m3 "BP Speed" 48 "-=QWERTY=-" h1b3-048.zip
+e1m3 "BP Speed" 46 "QWERTY" h1b3-046.zip
+e1m3 "BP Speed" 48 "QWERTY" h1b3-048.zip
 e1m3 "BP Speed" 50 "Vincent Catalaa" h1b3-050.zip
-e1m4 "BP Speed" 48 "-=QWERTY=-" h1b4-048.zip
+e1m4 "BP Speed" 48 "QWERTY" h1b4-048.zip
 e1m4 "BP Speed" 49 "Vincent Catalaa" h1b4-049.zip
-e1m5 "BP Speed" 55 "-=QWERTY=-" h1b5-055.zip
+e1m5 "BP Speed" 55 "QWERTY" h1b5-055.zip
 e1m5 "BP Speed" 1:01 "Vincent Catalaa" h1b5-101.zip
-e1m6 "BP Speed" 1:11 "-=QWERTY=-" h1b6-111.zip
+e1m6 "BP Speed" 1:11 "QWERTY" h1b6-111.zip
 e1m6 "BP Speed" 1:25 "Vincent Catalaa" h1b6-125.zip
 e1m6s "BP Speed" 1:34 "Vincent Catalaa" h1b6s134.zip
-e1m7 "BP Speed" 1:17 "-=QWERTY=-" h1b7-117.zip
+e1m7 "BP Speed" 1:17 "QWERTY" h1b7-117.zip
 e1m7 "BP Speed" 1:31 "Vincent Catalaa" h1b7-131.zip
-e1m8 "BP Speed" 34 "-=QWERTY=-" h1b8-034.zip
-e1m8 "BP Speed" 38 "-=QWERTY=-" h1b8-038.zip
+e1m8 "BP Speed" 34 "QWERTY" h1b8-034.zip
+e1m8 "BP Speed" 38 "QWERTY" h1b8-038.zip
 e1m8 "BP Speed" 46 "Vincent Catalaa" h1b8-046.zip
 e1m9 "BP Speed" 1:14 "Vincent Catalaa" h1b9-114.zip
 e1m1 "BP Max" 1:33 "Xit Vono" h1f1-133.zip
@@ -105,7 +105,7 @@ e1m6s "NoMo" 0:57 "JC" h1o6s057.zip
 e1m7 "NoMo" 50 "Kimo Xvirus" h1o7-050.zip
 e1m7 "NoMo" 53:85 "JC" h1o75385.zip
 e1m7 "NoMo" 55:20 "Vincent Catalaa" h1o75520.zip
-e1m7 "NoMo" 59:74 "-=QWERTY=-" h1o75974.zip
+e1m7 "NoMo" 59:74 "QWERTY" h1o75974.zip
 e1m9 "NoMo" 59:31 "Vincent Catalaa" h1o95931.zip
 e1m1 "Pacifist" 27 "Kimo Xvirus" h1p1-027.zip
 e1m2 "Pacifist" 3:15 "Xit Vono" h1p2-315.zip
@@ -133,7 +133,7 @@ e1m2 "SM Speed" 1:10 "Kimo Xvirus" h1s2-110.zip
 e1m2 "SM Speed" 1:18 "JC" h1s2-118.zip
 e1m2 "SM Speed" 1:21 "Xit Vono" h1s2-121.zip
 e1m2 "SM Speed" 1:22 "Vincent Catalaa" h1s2-122.zip
-e1m2 "SM Speed" 1:34 "-=QWERTY=-" h1s2-134.zip
+e1m2 "SM Speed" 1:34 "QWERTY" h1s2-134.zip
 e1m2 "SM Speed" 1:36 "Radek Pecka" h1s2-136.zip
 e1m2 "SM Speed" 1:40 "Vincent Catalaa" h1s2-140.zip
 e1m3 "SM Speed" 45 "Vincent Catalaa" h1s3-045.zip
@@ -144,12 +144,12 @@ e1m4 "SM Speed" 45 "Vincent Catalaa" h1s4-045.zip
 e1m5 "SM Speed" 52 "Vincent Catalaa" h1s5-052.zip
 e1m6 "SM Speed" 1:10 "Vincent Catalaa" h1s6-110.zip
 e1m6s "SM Speed" 1:13 "Vincent Catalaa" h1s6s113.zip
-e1m7 "SM Speed" 1:04 "-=QWERTY=-" h1s7-104.zip
+e1m7 "SM Speed" 1:04 "QWERTY" h1s7-104.zip
 e1m7 "SM Speed" 1:22 "Vincent Catalaa" h1s7-122.zip
 e1m8 "SM Speed" 29 "Kimo Xvirus" h1s8-029.zip
 e1m8 "SM Speed" 30 "Kimo Xvirus" h1s8-030.zip
 e1m8 "SM Speed" 31 "Radek Pecka" h1s8-031.zip
-e1m8 "SM Speed" 34 "-=QWERTY=-" h1s8-034.zip
+e1m8 "SM Speed" 34 "QWERTY" h1s8-034.zip
 e1m8 "SM Speed" 37 "Radek Pecka" h1s8-037.zip
 e1m8 "SM Speed" 46 "Vincent Catalaa" h1s8-046.zip
 e1m9 "SM Speed" 1:05 "Vincent Catalaa" h1s9-105.zip
@@ -165,22 +165,22 @@ e2m2  6:06 "Vincent Catalaa" h272-606.zip
 e2m1 "BP Speed" 21 "Vincent Catalaa" h2b1-021.zip
 e2m2 "BP Speed" 41 "Hitherto" h2b2-041.zip
 e2m2 "BP Speed" 43 "Vincent Catalaa" h2b2-043.zip
-e2m2 "BP Speed" 48 "-=QWERTY=-" h2b2-048.zip
+e2m2 "BP Speed" 48 "QWERTY" h2b2-048.zip
 e2m2 "BP Speed" 57 "Vincent Catalaa" h2b2-057.zip
-e2m3 "BP Speed" 51 "-=QWERTY=-" h2b3-051.zip
+e2m3 "BP Speed" 51 "QWERTY" h2b3-051.zip
 e2m3 "BP Speed" 1:11 "Vincent Catalaa" h2b3-111.zip
-e2m4 "BP Speed" 1:14 "-=QWERTY=-" h2b4-114.zip
-e2m4s "BP Speed" 1:20 "-=QWERTY=-" h2b4s120.zip
+e2m4 "BP Speed" 1:14 "QWERTY" h2b4-114.zip
+e2m4s "BP Speed" 1:20 "QWERTY" h2b4s120.zip
 e2m5 "BP Speed" 22 "Vincent Catalaa" h2b5-022.zip
-e2m5 "BP Speed" 25 "-=QWERTY=-" h2b5-025.zip
+e2m5 "BP Speed" 25 "QWERTY" h2b5-025.zip
 e2m5 "BP Speed" 26 "Doug Merrill" h2b5-026.zip
-e2m6 "BP Speed" 1:24 "-=QWERTY=-" h2b6-124.zip
+e2m6 "BP Speed" 1:24 "QWERTY" h2b6-124.zip
 e2m6 "BP Speed" 1:53 "Vincent Catalaa" h2b6-153.zip
-e2m7 "BP Speed" 1:04 "-=QWERTY=-" h2b7-104.zip
+e2m7 "BP Speed" 1:04 "QWERTY" h2b7-104.zip
 e2m7 "BP Speed" 1:29 "Vincent Catalaa" h2b7-129.zip
 e2m8 "BP Speed" 2:18 "Vincent Catalaa" h2b8-218.zip
 e2m8 "BP Speed" 8:55 "Branimir H. Beric" h2b8-855.zip
-e2m9 "BP Speed" 51 "-=QWERTY=-" h2b9-051.zip
+e2m9 "BP Speed" 51 "QWERTY" h2b9-051.zip
 e2m9 "BP Speed" 1:01 "Vincent Catalaa" h2b9-101.zip
 e2m1 "BP Max" 1:06 "Kimo Xvirus" h2f1-106.zip
 e2m1 "BP Max" 1:18 "Xit Vono" h2f1-118.zip
@@ -232,7 +232,7 @@ e2m4 "NoMo" 55:57 "JC" h2o45557.zip
 e2m4s "NoMo" 1:08 "JC" h2o4s108.zip
 e2m5 "NoMo" 17:94 "Kimo Xvirus" h2o51794.zip
 e2m5 "NoMo" 19:85 "JC" h2o51985.zip
-e2m5 "NoMo" 20:97 "-=QWERTY=-" h2o52097.zip
+e2m5 "NoMo" 20:97 "QWERTY" h2o52097.zip
 e2m6 "NoMo" 1:08 "Lucas Marincak" h2o6-108.zip
 e2m6 "NoMo" 59:11 "JC" h2o65911.zip
 e2m7 "NoMo" 1:11 "Lucas Marincak" h2o7-111.zip
@@ -260,19 +260,19 @@ e2m2 "SM Speed" 38 "Hitherto" h2s2-038.zip
 e2m2 "SM Speed" 43 "Radek Pecka" h2s2-043.zip
 e2m2 "SM Speed" 44 "Vincent Catalaa" h2s2-044.zip
 e2m3 "SM Speed" 37 "Drew DeVore" h2s3-037.zip
-e2m3 "SM Speed" 41 "-=QWERTY=-" h2s3-041.zip
+e2m3 "SM Speed" 41 "QWERTY" h2s3-041.zip
 e2m3 "SM Speed" 1:02 "Vincent Catalaa" h2s3-102.zip
 e2m4 "SM Speed" 1:02 "JC" h2s4-102.zip
-e2m4 "SM Speed" 1:09 "-=QWERTY=-" h2s4-109.zip
+e2m4 "SM Speed" 1:09 "QWERTY" h2s4-109.zip
 e2m4 "SM Speed" 1:18 "Vincent Catalaa" h2s4-118.zip
-e2m4s "SM Speed" 1:15 "-=QWERTY=-" h2s4s115.zip
+e2m4s "SM Speed" 1:15 "QWERTY" h2s4s115.zip
 e2m4s "SM Speed" 1:32 "Vincent Catalaa" h2s4s132.zip
 e2m5 "SM Speed" 21 "Vincent Catalaa" h2s5-021.zip
-e2m5 "SM Speed" 22 "-=QWERTY=-" h2s5-022.zip
+e2m5 "SM Speed" 22 "QWERTY" h2s5-022.zip
 e2m5 "SM Speed" 23 "Radek Pecka" h2s5-023.zip
 e2m5 "SM Speed" 24 "Vincent Catalaa" h2s5-024.zip
 e2m6 "SM Speed" 1:17 "Vincent Catalaa" h2s6-117.zip
-e2m7 "SM Speed" 1:03 "-=QWERTY=-" h2s7-103.zip
+e2m7 "SM Speed" 1:03 "QWERTY" h2s7-103.zip
 e2m7 "SM Speed" 1:10 "Radek Pecka" h2s7-110.zip
 e2m7 "SM Speed" 1:23 "Vincent Catalaa" h2s7-123.zip
 e2m8 "SM Speed" 1:03 "Vincent Catalaa" h2s8-103.zip
@@ -281,24 +281,24 @@ e2m1 "Tyson" 3:02 "Xit Vono" h2t1-302.zip
 e2m2 "Tyson" 7:36 "Hitherto" h2t2-736.zip
 e2m2 "Tyson" 10:28 "Xit Vono" h2t21028.zip
 e2m8 "Tyson" 9:22 "Lucas Marincak" h2t8-922.zip
-e3m2 "SM Speed" 41 "-=QWERTY=-" h3S2-041.zip
+e3m2 "SM Speed" 41 "QWERTY" h3S2-041.zip
 e3m1 "BP Speed" 25 "Xit Vono" h3b1-025.zip
-e3m1 "BP Speed" 26 "-=QWERTY=-" h3b1-026.zip
+e3m1 "BP Speed" 26 "QWERTY" h3b1-026.zip
 e3m1 "BP Speed" 40 "Radek Pecka" h3b1-040.zip
-e3m2 "BP Speed" 38 "-=QWERTY=-" h3b2-038.zip
+e3m2 "BP Speed" 38 "QWERTY" h3b2-038.zip
 e3m2 "BP Speed" 59 "Vincent Catalaa" h3b2-059.zip
-e3m3 "BP Speed" 1:23 "-=QWERTY=-" h3b3-123.zip
+e3m3 "BP Speed" 1:23 "QWERTY" h3b3-123.zip
 e3m3 "BP Speed" 1:46 "Vincent Catalaa" h3b3-146.zip
-e3m4 "BP Speed" 1:21 "-=QWERTY=-" h3b4-121.zip
+e3m4 "BP Speed" 1:21 "QWERTY" h3b4-121.zip
 e3m4 "BP Speed" 1:40 "Vincent Catalaa" h3b4-140.zip
 e3m4s "BP Speed" 1:12 "Vincent Catalaa" h3b4s112.zip
 e3m4s "BP Speed" 1:20 "Vincent Catalaa" h3b4s120.zip
-e3m5 "BP Speed" 52 "-=QWERTY=-" h3b5-052.zip
+e3m5 "BP Speed" 52 "QWERTY" h3b5-052.zip
 e3m5 "BP Speed" 58 "Vincent Catalaa" h3b5-058.zip
 e3m6 "BP Speed" 1:13 "Vincent Catalaa" h3b6-113.zip
 e3m7 "BP Speed" 2:23 "Vincent Catalaa" h3b7-223.zip
 e3m8 "BP Speed" 4:43 "Vincent Catalaa" h3b8-443.zip
-e3m9 "BP Speed" 45 "-=QWERTY=-" h3b9-045.zip
+e3m9 "BP Speed" 45 "QWERTY" h3b9-045.zip
 e3m9 "BP Speed" 47 "Vincent Catalaa" h3b9-047.zip
 e3m1 "BP Max" 4:31 "Xit Vono" h3f1-431.zip
 e3m1 "BP Max" 4:49 "Vincent Catalaa" h3f1-449.zip
@@ -370,7 +370,7 @@ e3m2 "SM Speed" 46 "Vincent Catalaa" h3s2-046.zip
 e3m3 "SM Speed" 1:13 "Vincent Catalaa" h3s3-113.zip
 e3m4 "SM Speed" 1:19 "Vincent Catalaa" h3s4-119.zip
 e3m4s "SM Speed" 1:14 "Vincent Catalaa" h3s4s114.zip
-e3m5 "SM Speed" 55 "-=QWERTY=-" h3s5-055.zip
+e3m5 "SM Speed" 55 "QWERTY" h3s5-055.zip
 e3m5 "SM Speed" 57 "Vincent Catalaa" h3s5-057.zip
 e3m6 "SM Speed" 58 "Vincent Catalaa" h3s6-058.zip
 e3m6 "SM Speed" 1:07 "Vincent Catalaa" h3s6-107.zip
@@ -387,27 +387,27 @@ e3m1 "Tyson" 10:17 "Xit Vono" h3t11017.zip
 e3m8 "Tyson" 3:55 "Xit Vono" h3t8-355.zip
 e4m1 "BP Speed" 1:28 "Xit Vono" h4b1-128.zip
 e4m1 "BP Speed" 1:35 "Vincent Catalaa" h4b1-135.zip
-e4m1 "BP Speed" 2:16 "-=QWERTY=-" h4b1-216.zip
-e4m2 "BP Speed" 1:13 "-=QWERTY=-" h4b2-113.zip
+e4m1 "BP Speed" 2:16 "QWERTY" h4b1-216.zip
+e4m2 "BP Speed" 1:13 "QWERTY" h4b2-113.zip
 e4m2 "BP Speed" 1:26 "Vincent Catalaa" h4b2-126.zip
-e4m2 "BP Speed" 1:54 "-=QWERTY=-" h4b2-154.zip
+e4m2 "BP Speed" 1:54 "QWERTY" h4b2-154.zip
 e4m2 "BP Speed" 3:04 "Vincent Catalaa" h4b2-304.zip
-e4m3 "BP Speed" 2:05 "-=QWERTY=-" h4b3-205.zip
+e4m3 "BP Speed" 2:05 "QWERTY" h4b3-205.zip
 e4m3 "BP Speed" 2:40 "Vincent Catalaa" h4b3-240.zip
 e4m4 "BP Speed" 28 "Vincent Catalaa" h4b4-028.zip
-e4m4 "BP Speed" 30 "-=QWERTY=-" h4b4-030.zip
+e4m4 "BP Speed" 30 "QWERTY" h4b4-030.zip
 e4m4 "BP Speed" 1:00 "Vincent Catalaa" h4b4-100.zip
 e4m4s "BP Speed" 1:34 "Vincent Catalaa" h4b4s134.zip
 e4m5 "BP Speed" 1:46 "Xit Vono" h4b5-146.zip
-e4m5 "BP Speed" 2:00 "-=QWERTY=-" h4b5-200.zip
-e4m5 "BP Speed" 2:17 "-=QWERTY=-" h4b5-217.zip
+e4m5 "BP Speed" 2:00 "QWERTY" h4b5-200.zip
+e4m5 "BP Speed" 2:17 "QWERTY" h4b5-217.zip
 e4m5 "BP Speed" 2:55 "Vincent Catalaa" h4b5-255.zip
-e4m5 "BP Speed" 4:30 "-=QWERTY=-" h4b5-430.zip
-e4m6 "BP Speed" 1:20 "-=QWERTY=-" h4b6-120.zip
-e4m7 "BP Speed" 1:41 "-=QWERTY=-" h4b7-141.zip
-e4m8 "BP Speed" 3:17 "-=QWERTY=-" h4b8-317.zip
-e4m8 "BP Speed" 3:51 "-=QWERTY=-" h4b8-351.zip
-e4m9 "BP Speed" 2:15 "-=QWERTY=-" h4b9-215.zip
+e4m5 "BP Speed" 4:30 "QWERTY" h4b5-430.zip
+e4m6 "BP Speed" 1:20 "QWERTY" h4b6-120.zip
+e4m7 "BP Speed" 1:41 "QWERTY" h4b7-141.zip
+e4m8 "BP Speed" 3:17 "QWERTY" h4b8-317.zip
+e4m8 "BP Speed" 3:51 "QWERTY" h4b8-351.zip
+e4m9 "BP Speed" 2:15 "QWERTY" h4b9-215.zip
 e4m1 "BP Max" 12:15 "Xit Vono" h4f11215.zip
 e4m1 "BP Max" 13:02 "Vincent Catalaa" h4f11302.zip
 e4m2 "BP Max" 7:57 "Bruno Vergílio" h4f2-757.zip
@@ -446,12 +446,12 @@ e4m2 "NoMo" 1:08 "PVS" h4o2-108.zip
 e4m3 "NoMo" 1:46 "JC" h4o3-146.zip
 e4m4 "NoMo" 24:45 "Kimo Xvirus" h4o42445.zip
 e4m4 "NoMo" 25:60 "Vincent Catalaa" h4o42560.zip
-e4m4 "NoMo" 26:91 "-=QWERTY=-" h4o42691.zip
+e4m4 "NoMo" 26:91 "QWERTY" h4o42691.zip
 e4m4s "NoMo" 1:15 "JC" h4o4s115.zip
 e4m5 "NoMo" 1:19 "JC" h4o5-119.zip
 e4m6 "NoMo" 1:03 "JC" h4o6-103.zip
 e4m7 "NoMo" 1:05 "JC" h4o7-105.zip
-e4m7 "NoMo" 1:14 "-=QWERTY=-" h4o7-114.zip
+e4m7 "NoMo" 1:14 "QWERTY" h4o7-114.zip
 e4m9 "NoMo" 1:34 "JC" h4o9-134.zip
 e4m9 "NoMo" 1:50 "JC" h4o9-150.zip
 e4m1 "Pacifist" 3:47 "Xit Vono" h4p1-347.zip
@@ -459,42 +459,42 @@ e4m2 "Pacifist" 4:19 "Xit Vono" h4p2-419.zip
 e4m4s "Pacifist" 2:03 "Vincent Catalaa" h4p4s203.zip
 e4m5 "Pacifist" 1:51 "Vincent Catalaa" h4p5-151.zip
 e4m5 "Pacifist" 2:20 "Xit Vono" h4p5-220.zip
-e4m1 "SM Speed" 1:38 "-=QWERTY=-" h4s1-138.zip
+e4m1 "SM Speed" 1:38 "QWERTY" h4s1-138.zip
 e4m1 "SM Speed" 2:39 "Vincent Catalaa" h4s1-239.zip
 e4m2 "SM Speed" 32 "JC" h4s2-032.zip
-e4m2 "SM Speed" 1:12 "-=QWERTY=-" h4s2-112.zip
+e4m2 "SM Speed" 1:12 "QWERTY" h4s2-112.zip
 e4m2 "SM Speed" 1:16 "Vincent Catalaa" h4s2-116.zip
 e4m2 "SM Speed" 1:28 "Vincent Catalaa" h4s2-128.zip
 e4m3 "SM Speed" 1:58 "Radek Pecka" h4s3-158.zip
 e4m3 "SM Speed" 2:52 "Vincent Catalaa" h4s3-252.zip
 e4m4 "SM Speed" 27 "Kimo Xvirus" h4s4-027.zip
 e4m4 "SM Speed" 28 "Radek Pecka" h4s4-028.zip
-e4m4 "SM Speed" 29 "-=QWERTY=-" h4s4-029.zip
-e4m4 "SM Speed" 31 "-=QWERTY=-" h4s4-031.zip
+e4m4 "SM Speed" 29 "QWERTY" h4s4-029.zip
+e4m4 "SM Speed" 31 "QWERTY" h4s4-031.zip
 e4m4 "SM Speed" 55 "Radek Pecka" h4s4-055.zip
 e4m4 "SM Speed" 1:25 "Vincent Catalaa" h4s4-125.zip
 e4m4s "SM Speed" 1:43 "Vincent Catalaa" h4s4s143.zip
 e4m5 "SM Speed" 1:35 "Radek Pecka" h4s5-135.zip
 e4m5 "SM Speed" 1:59 "Vincent Catalaa" h4s5-159.zip
-e4m6 "SM Speed" 1:24 "-=QWERTY=-" h4s6-124.zip
+e4m6 "SM Speed" 1:24 "QWERTY" h4s6-124.zip
 e4m6 "SM Speed" 1:54 "Vincent Catalaa" h4s6-154.zip
-e4m7 "SM Speed" 1:21 "-=QWERTY=-" h4s7-121.zip
+e4m7 "SM Speed" 1:21 "QWERTY" h4s7-121.zip
 e4m7 "SM Speed" 2:51 "Vincent Catalaa" h4s7-251.zip
-e4m8 "SM Speed" 1:52 "-=QWERTY=-" h4s8-152.zip
+e4m8 "SM Speed" 1:52 "QWERTY" h4s8-152.zip
 e4m8 "SM Speed" 3:14 "Vincent Catalaa" h4s8-314.zip
-e4m9 "SM Speed" 2:19 "-=QWERTY=-" h4s9-219.zip
+e4m9 "SM Speed" 2:19 "QWERTY" h4s9-219.zip
 e4m9 "SM Speed" 3:49 "Vincent Catalaa" h4s9-349.zip
-e5m1 "BP Speed" 2:01 "-=QWERTY=-" h5b1-201.zip
-e5m2 "BP Speed" 1:51 "-=QWERTY=-" h5b2-151.zip
-e5m3 "BP Speed" 42 "-=QWERTY=-" h5b3-042.zip
+e5m1 "BP Speed" 2:01 "QWERTY" h5b1-201.zip
+e5m2 "BP Speed" 1:51 "QWERTY" h5b2-151.zip
+e5m3 "BP Speed" 42 "QWERTY" h5b3-042.zip
 e5m3 "BP Speed" 1:38 "Vincent Catalaa" h5b3-138.zip
-e5m3s "BP Speed" 0:51 "-=QWERTY=-" h5b3s051.zip
-e5m4 "BP Speed" 1:35 "-=QWERTY=-" h5b4-135.zip
-e5m5 "BP Speed" 2:53 "-=QWERTY=-" h5b5-253.zip
-e5m6 "BP Speed" 2:19 "-=QWERTY=-" h5b6-219.zip
-e5m7 "BP Speed" 2:26 "-=QWERTY=-" h5b7-226.zip
+e5m3s "BP Speed" 0:51 "QWERTY" h5b3s051.zip
+e5m4 "BP Speed" 1:35 "QWERTY" h5b4-135.zip
+e5m5 "BP Speed" 2:53 "QWERTY" h5b5-253.zip
+e5m6 "BP Speed" 2:19 "QWERTY" h5b6-219.zip
+e5m7 "BP Speed" 2:26 "QWERTY" h5b7-226.zip
 e5m8 "BP Speed" 6:08 "Vincent Catalaa" h5b8-608.zip
-e5m9 "BP Speed" 2:18 "-=QWERTY=-" h5b9-218.zip
+e5m9 "BP Speed" 2:18 "QWERTY" h5b9-218.zip
 e5m1 "BP Max" 12:01 "Bruno Vergílio" h5f11201.zip
 e5m2 "BP Max" 7:44 "Bruno Vergílio" h5f2-744.zip
 e5m3 "BP Max" 8:03 "Vincent Catalaa" h5f3-803.zip
@@ -527,8 +527,8 @@ e5m1 "NoMo" 59 "JC" h5o1-059.zip
 e5m2 "NoMo" 56 "JC" h5o2-056.zip
 e5m2 "NoMo" 1:01 "JC" h5o2-101.zip
 e5m2 "NoMo" 1:08 "PVS" h5o2-108.zip
-e5m3 "NoMo" 38 "-=QWERTY=-" h5o3-038.zip
-e5m3s "NoMo" 0:46 "-=QWERTY=-" h5o3s046.zip
+e5m3 "NoMo" 38 "QWERTY" h5o3-038.zip
+e5m3s "NoMo" 0:46 "QWERTY" h5o3s046.zip
 e5m4 "NoMo" 27 "JC" h5o4-027.zip
 e5m5 "NoMo" 1:34 "JC" h5o5-134.zip
 e5m6 "NoMo" 1:14 "JC" h5o6-114.zip
@@ -536,32 +536,32 @@ e5m7 "NoMo" 48:62 "JC" h5o74862.zip
 e5m9 "NoMo" 1:32 "JC" h5o9-132.zip
 e5m3 "Pacifist" 45 "JC" h5p3-045.zip
 e5m3s "Pacifist" 0:56 "JC" h5p3s056.zip
-e5m1 "SM Speed" 1:57 "-=QWERTY=-" h5s1-157.zip
+e5m1 "SM Speed" 1:57 "QWERTY" h5s1-157.zip
 e5m1 "SM Speed" 4:12 "Vincent Catalaa" h5s1-412.zip
-e5m2 "SM Speed" 1:47 "-=QWERTY=-" h5s2-147.zip
+e5m2 "SM Speed" 1:47 "QWERTY" h5s2-147.zip
 e5m2 "SM Speed" 3:44 "Vincent Catalaa" h5s2-344.zip
-e5m3 "SM Speed" 41 "-=QWERTY=-" h5s3-041.zip
-e5m3 "SM Speed" 43 "-=QWERTY=-" h5s3-043.zip
+e5m3 "SM Speed" 41 "QWERTY" h5s3-041.zip
+e5m3 "SM Speed" 43 "QWERTY" h5s3-043.zip
 e5m3 "SM Speed" 1:20 "Vincent Catalaa" h5s3-120.zip
-e5m3s "SM Speed" 0:49 "-=QWERTY=-" h5s3s049.zip
+e5m3s "SM Speed" 0:49 "QWERTY" h5s3s049.zip
 e5m4 "SM Speed" 30 "JC" h5s4-030.zip
-e5m4 "SM Speed" 1:32 "-=QWERTY=-" h5s4-132.zip
-e5m5 "SM Speed" 2:35 "-=QWERTY=-" h5s5-235.zip
-e5m5 "SM Speed" 3:09 "-=QWERTY=-" h5s5-309.zip
+e5m4 "SM Speed" 1:32 "QWERTY" h5s4-132.zip
+e5m5 "SM Speed" 2:35 "QWERTY" h5s5-235.zip
+e5m5 "SM Speed" 3:09 "QWERTY" h5s5-309.zip
 e5m5 "SM Speed" 5:48 "Vincent Catalaa" h5s5-548.zip
-e5m6 "SM Speed" 1:52 "-=QWERTY=-" h5s6-152.zip
-e5m6 "SM Speed" 2:15 "-=QWERTY=-" h5s6-215.zip
+e5m6 "SM Speed" 1:52 "QWERTY" h5s6-152.zip
+e5m6 "SM Speed" 2:15 "QWERTY" h5s6-215.zip
 e5m7 "SM Speed" 50 "JC" h5s7-050.zip
 e5m7 "SM Speed" 1:49 "JC" h5s7-149.zip
-e5m7 "SM Speed" 1:58 "-=QWERTY=-" h5s7-158.zip
+e5m7 "SM Speed" 1:58 "QWERTY" h5s7-158.zip
 e5m8 "SM Speed" 2:50 "Vincent Catalaa" h5s8-250.zip
 e5m8 "SM Speed" 3:36 "JC" h5s8-336.zip
 e5m8 "SM Speed" 4:00 "Vincent Catalaa" h5s8-400.zip
 e5m8 "SM Speed" 4:09 "Vincent Catalaa" h5s8-409.zip
-e5m9 "SM Speed" 2:12 "-=QWERTY=-" h5s9-212.zip
+e5m9 "SM Speed" 2:12 "QWERTY" h5s9-212.zip
 e6m1 "BP Speed" 21 "Vincent Catalaa" h6b1-021.zip
-e6m1 "BP Speed" 23 "-=QWERTY=-" h6b1-023.zip
-e6m1 "BP Speed" 24 "-=QWERTY=-" h6b1-024.zip
+e6m1 "BP Speed" 23 "QWERTY" h6b1-023.zip
+e6m1 "BP Speed" 24 "QWERTY" h6b1-024.zip
 e6m2 "BP Speed" 1:30 "Vincent Catalaa" h6b2-130.zip
 e6m1 "BP Max" 5:10 "Vincent Catalaa" h6f1-510.zip
 e6m2 "BP Max" 11:27 "Vincent Catalaa" h6f21127.zip
@@ -574,8 +574,8 @@ e6m2 "NM Speed" 1:26 "Vincent Catalaa" h6n2-126.zip
 e6m1 "NoMo" 18:80 "Kimo Xvirus" h6o11880.zip
 e6m1 "NoMo" 19:65 "Vincent Catalaa" h6o11965.zip
 e6m2 "NoMo" 47:39 "Vincent Catalaa" h6o24739.zip
-e6m2 "Pacifist" 1:13 "-=QWERTY=-" h6p2-113.zip
+e6m2 "Pacifist" 1:13 "QWERTY" h6p2-113.zip
 e6m1 "SM Speed" 21 "Vincent Catalaa" h6s1-021.zip
 e6m1 "SM Speed" 22 "Vincent Catalaa" h6s1-022.zip
-e6m2 "SM Speed" 56 "-=QWERTY=-" h6s2-056.zip
-e6m2 "SM Speed" 1:13 "-=QWERTY=-" h6s2-113.zip
+e6m2 "SM Speed" 56 "QWERTY" h6s2-056.zip
+e6m2 "SM Speed" 1:13 "QWERTY" h6s2-113.zip

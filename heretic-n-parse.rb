@@ -35,9 +35,10 @@ files.each do |file_name|
       case name
       when 'JC Dorne'
         name = 'JC'
+      when '-=QWERTY=-'
+        name = 'QWERTY'
       end
       puts "#{level} #{category} #{time} \"#{name}\" #{base_name}.zip"
-      author_counts[name] += 1
       success = true
       break
     end
