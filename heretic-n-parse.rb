@@ -2,10 +2,10 @@
 category_keys = {
   'm' => 'SM Max',
   'f' => 'BP Max',
-  'x' => 'NM Max',
+  'x' => 'NM 100S',
   'n' => 'NM Speed',
   'o' => 'NoMo',
-  'p' => 'Pacifist',
+  'p' => 'SM Pacifist',
   's' => 'SM Speed',
   'b' => 'BP Speed',
   't' => 'Tyson'
