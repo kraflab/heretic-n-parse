@@ -1,581 +1,582 @@
-e1m1 "BP Max" 1:30 "Andrey Boldt" H1F1-130.zip
-e1m1 "BP Max" 1:35 "Andrey Boldt" H1F1-135.zip
-e1m1 "BP Max" 1:41 "Andrey Boldt" H1F1-141.zip
-e1m2 "BP Max" 4:22 "Andrey Boldt" H1F2-422.zip
-e1m2 "BP Max" 5:23 "Laurent Sebellin" H1F2-523.zip
-e1m1 "SM Max" 2:06 "JC" H1M1-206.zip
-e1m1 "SM Max" 2:38 "William Huber" H1M1-238.zip
-e1m2 "SM Max" 4:22 "Andrey Boldt" H1M2-422.zip
-e1m2 "NM Speed" 1:43 "JC" H1N2-143.zip
-e1m9 "Pacifist" 1:01 "JC" H1P9-101.zip
-e1m9 "SM Speed" 1:11 "Vincent Catalaa" H1S9-111.zip
-e1m1 "Tyson" 1:59 "Hitherto" H1T1-159.zip
-e1m1 "Tyson" 2:14 "Andrey Boldt" H1T1-214.zip
-e1m4 "NM Speed" 59 "JC" H1n4-059.zip
-e1m5 "NM Speed" 56 "JC" H1n5-056.zip
-e1m1 "Pacifist" 30 "JC" H1p1-030.zip
-e2m5 "SM Max" 4:39 "William Huber" H2M5-439.zip
-e2m5 "SM Max" 6:14 "JC" H2M5-614.zip
-e2m1 "Pacifist" 24 "JC" H2p1-024.zip
-e2m5 "Pacifist" 24 "JC" H2p5-024.zip
-e3m2 "SM Speed" 38 "QWERTY" H3S2-038.zip
-e3m9 "SM Speed" 39 "Radek Pecka" H3s9-039.zip
-e4m1 "BP Speed" 1:21 "Hitherto" H4B1-121.zip
-e4m6 "SM Max" 6:21 "William Huber" H4M6-621.zip
-e4m2 "Pacifist" 1:11 "Hitherto" H4P2-111.zip
-e4m1 "SM Speed" 1:15 "Hitherto" H4S1-115.zip
-e4m4 "Pacifist" 33 "JC" H4p4-033.zip
-e5m5 "BP Max" 23:55 "Laurent Sebellin" H5F52355.zip
-e5m1 "SM Max" 11:08 "Laurent Sebellin" H5M11108.zip
-e6m1 "Pacifist" 26 "JC" H6p1-026.zip
-e1m1 "BP Speed" 28 "Vincent Catalaa" h1b1-028.zip
-e1m1 "BP Speed" 32 "Vincent Catalaa" h1b1-032.zip
-e1m2 "BP Speed" 1:15 "Xit Vono" h1b2-115.zip
-e1m2 "BP Speed" 1:18 "QWERTY" h1b2-118.zip
-e1m2 "BP Speed" 1:26 "QWERTY" h1b2-126.zip
-e1m2 "BP Speed" 1:34 "QWERTY" h1b2-134.zip
-e1m2 "BP Speed" 1:53 "Vincent Catalaa" h1b2-153.zip
-e1m3 "BP Speed" 46 "QWERTY" h1b3-046.zip
-e1m3 "BP Speed" 48 "QWERTY" h1b3-048.zip
-e1m3 "BP Speed" 50 "Vincent Catalaa" h1b3-050.zip
-e1m4 "BP Speed" 48 "QWERTY" h1b4-048.zip
-e1m4 "BP Speed" 49 "Vincent Catalaa" h1b4-049.zip
-e1m5 "BP Speed" 55 "QWERTY" h1b5-055.zip
-e1m5 "BP Speed" 1:01 "Vincent Catalaa" h1b5-101.zip
-e1m6 "BP Speed" 1:11 "QWERTY" h1b6-111.zip
-e1m6 "BP Speed" 1:25 "Vincent Catalaa" h1b6-125.zip
-e1m6s "BP Speed" 1:34 "Vincent Catalaa" h1b6s134.zip
-e1m7 "BP Speed" 1:17 "QWERTY" h1b7-117.zip
-e1m7 "BP Speed" 1:31 "Vincent Catalaa" h1b7-131.zip
-e1m8 "BP Speed" 34 "QWERTY" h1b8-034.zip
-e1m8 "BP Speed" 38 "QWERTY" h1b8-038.zip
-e1m8 "BP Speed" 46 "Vincent Catalaa" h1b8-046.zip
-e1m9 "BP Speed" 1:14 "Vincent Catalaa" h1b9-114.zip
-e1m1 "BP Max" 1:33 "Xit Vono" h1f1-133.zip
-e1m1 "BP Max" 1:38 "Xit Vono" h1f1-138.zip
-e1m1 "BP Max" 2:14 "Vincent Catalaa" h1f1-214.zip
-e1m2 "BP Max" 5:11 "Xit Vono" h1f2-511.zip
-e1m3 "BP Max" 2:41 "Drew DeVore" h1f3-241.zip
-e1m3 "BP Max" 2:50 "Drew DeVore" h1f3-250.zip
-e1m4 "BP Max" 3:10 "Kimo Xvirus" h1f4-310.zip
-e1m4 "BP Max" 4:27 "Vincent Catalaa" h1f4-427.zip
-e1m5 "BP Max" 6:13 "Vincent Catalaa" h1f5-613.zip
-e1m6 "BP Max" 6:18 "William Huber" h1f6-618.zip
-e1m7 "BP Max" 8:33 "Bruno Vergílio" h1f7-833.zip
-e1m8 "BP Max" 2:38 "Bruno Vergílio" h1f8-238.zip
-e1m9 "BP Max" 5:26 "Vincent Catalaa" h1f9-526.zip
-e1m1 "SM Max" 1:33 "Kimo Xvirus" h1m1-133.zip
-e1m1 "SM Max" 4:00 "Arno Slagboom" h1m1-400.zip
-e1m2 "SM Max" 5:51 "Vincent Catalaa" h1m2-551.zip
-e1m3 "SM Max" 5:09 "Vincent Catalaa" h1m3-509.zip
-e1m4 "SM Max" 5:32 "Vincent Catalaa" h1m4-532.zip
-e1m5 "SM Max" 6:37 "Vincent Catalaa" h1m5-637.zip
-e1m6 "SM Max" 6:40 "Vincent Catalaa" h1m6-640.zip
-e1m7 "SM Max" 7:19 "Vincent Catalaa" h1m7-719.zip
-e1m8 "SM Max" 2:13 "Vincent Catalaa" h1m8-213.zip
-e1m9 "SM Max" 6:47 "Vincent Catalaa" h1m9-647.zip
-e1m1 "NM Speed" 27 "JC" h1n1-027.zip
-e1m1 "NM Speed" 28 "Vincent Catalaa" h1n1-028.zip
-e1m1 "NM Speed" 30 "JC" h1n1-030.zip
-e1m1 "NM Speed" 1:11 "Branimir H. Beric" h1n1-111.zip
-e1m2 "NM Speed" 3:34 "Jeff Easthope" h1n2-334.zip
-e1m3 "NM Speed" 54 "JC" h1n3-054.zip
-e1m3 "NM Speed" 3:18 "Branimir H. Beric" h1n3-318.zip
-e1m4 "NM Speed" 2:52 "Branimir H. Beric" h1n4-252.zip
-e1m5 "NM Speed" 3:10 "Jeff Easthope" h1n5-310.zip
-e1m6 "NM Speed" 1:20 "JC" h1n6-120.zip
-e1m6 "NM Speed" 2:28 "Jeff Easthope" h1n6-228.zip
-e1m6s "NM Speed" 1:12 "Vincent Catalaa" h1n6s112.zip
-e1m7 "NM Speed" 1:20 "JC" h1n7-120.zip
-e1m7 "NM Speed" 2:51 "Jeff Easthope" h1n7-251.zip
-e1m8 "NM Speed" 30 "JC" h1n8-030.zip
-e1m8 "NM Speed" 35 "JC" h1n8-035.zip
-e1m8 "NM Speed" 1:35 "Jeff Easthope" h1n8-135.zip
-e1m9 "NM Speed" 1:16 "JC" h1n9-116.zip
-e1m9 "NM Speed" 2:35 "Branimir H. Beric" h1n9-235.zip
-e1m1 "NoMo" 25:68 "Kimo Xvirus" h1o12568.zip
-e1m1 "NoMo" 26:82 "Vincent Catalaa" h1o12682.zip
-e1m2 "NoMo" 1:03 "Kimo Xvirus" h1o2-103.zip
-e1m2 "NoMo" 1:07 "Vincent Catalaa" h1o2-107.zip
-e1m3 "NoMo" 36:74 "Vincent Catalaa" h1o33674.zip
-e1m4 "NoMo" 31:05 "Vincent Catalaa" h1o43105.zip
-e1m5 "NoMo" 39:34 "Vincent Catalaa" h1o53934.zip
-e1m6 "NoMo" 52:31 "Vincent Catalaa" h1o65231.zip
-e1m6s "NoMo" 0:57 "JC" h1o6s057.zip
-e1m7 "NoMo" 50 "Kimo Xvirus" h1o7-050.zip
-e1m7 "NoMo" 53:85 "JC" h1o75385.zip
-e1m7 "NoMo" 55:20 "Vincent Catalaa" h1o75520.zip
-e1m7 "NoMo" 59:74 "QWERTY" h1o75974.zip
-e1m9 "NoMo" 59:31 "Vincent Catalaa" h1o95931.zip
-e1m1 "Pacifist" 27 "Kimo Xvirus" h1p1-027.zip
-e1m2 "Pacifist" 3:15 "Xit Vono" h1p2-315.zip
-e1m3 "Pacifist" 1:01 "JC" h1p3-101.zip
-e1m4 "Pacifist" 1:56 "Xit Vono" h1p4-156.zip
-e1m5 "Pacifist" 1:49 "Xit Vono" h1p5-149.zip
-e1m6 "Pacifist" 2:09 "Lucas Marincak" h1p6-209.zip
-e1m6 "Pacifist" 2:28 "JC" h1p6-228.zip
-e1m6 "Pacifist" 4:42 "Xit Vono" h1p6-442.zip
-e1m6s "Pacifist" 5:09 "Xit Vono" h1p6s509.zip
-e1m7 "Pacifist" 1:16 "JC" h1p7-116.zip
-e1m8 "Pacifist" 2:19 "JC" h1p8-219.zip
-e1m8 "Pacifist" 4:25 "Lucas Marincak" h1p8-425.zip
-e1m9 "Pacifist" 58 "JC" h1p9-058.zip
-e1m9 "Pacifist" 59 "Vincent Catalaa" h1p9-059.zip
-e1m9 "Pacifist" 1:02 "Vincent Catalaa" h1p9-102.zip
-e1m9 "Pacifist" 1:03 "JC" h1p9-103.zip
-e1m9 "Pacifist" 1:21 "Lucas Marincak" h1p9-121.zip
-e1m1 "SM Speed" 25 "Kimo Xvirus" h1s1-025.zip
-e1m1 "SM Speed" 26 "Kimo Xvirus" h1s1-026.zip
-e1m1 "SM Speed" 27 "Vincent Catalaa" h1s1-027.zip
-e1m1 "SM Speed" 28 "Radek Pecka" h1s1-028.zip
-e1m1 "SM Speed" 29 "Vincent Catalaa" h1s1-029.zip
-e1m2 "SM Speed" 1:10 "Kimo Xvirus" h1s2-110.zip
-e1m2 "SM Speed" 1:18 "JC" h1s2-118.zip
-e1m2 "SM Speed" 1:21 "Xit Vono" h1s2-121.zip
-e1m2 "SM Speed" 1:22 "Vincent Catalaa" h1s2-122.zip
-e1m2 "SM Speed" 1:34 "QWERTY" h1s2-134.zip
-e1m2 "SM Speed" 1:36 "Radek Pecka" h1s2-136.zip
-e1m2 "SM Speed" 1:40 "Vincent Catalaa" h1s2-140.zip
-e1m3 "SM Speed" 45 "Vincent Catalaa" h1s3-045.zip
-e1m3 "SM Speed" 48 "Radek Pecka" h1s3-048.zip
-e1m3 "SM Speed" 49 "Vincent Catalaa" h1s3-049.zip
-e1m4 "SM Speed" 39 "Kimo Xvirus" h1s4-039.zip
-e1m4 "SM Speed" 45 "Vincent Catalaa" h1s4-045.zip
-e1m5 "SM Speed" 52 "Vincent Catalaa" h1s5-052.zip
-e1m6 "SM Speed" 1:10 "Vincent Catalaa" h1s6-110.zip
-e1m6s "SM Speed" 1:13 "Vincent Catalaa" h1s6s113.zip
-e1m7 "SM Speed" 1:04 "QWERTY" h1s7-104.zip
-e1m7 "SM Speed" 1:22 "Vincent Catalaa" h1s7-122.zip
-e1m8 "SM Speed" 29 "Kimo Xvirus" h1s8-029.zip
-e1m8 "SM Speed" 30 "Kimo Xvirus" h1s8-030.zip
-e1m8 "SM Speed" 31 "Radek Pecka" h1s8-031.zip
-e1m8 "SM Speed" 34 "QWERTY" h1s8-034.zip
-e1m8 "SM Speed" 37 "Radek Pecka" h1s8-037.zip
-e1m8 "SM Speed" 46 "Vincent Catalaa" h1s8-046.zip
-e1m9 "SM Speed" 1:05 "Vincent Catalaa" h1s9-105.zip
-e1m1 "Tyson" 1:52 "JC" h1t1-152.zip
-e1m1 "Tyson" 2:03 "JC" h1t1-203.zip
-e1m1 "Tyson" 2:40 "Xit Vono" h1t1-240.zip
-e1m2 "Tyson" 8:09 "Xit Vono" h1t2-809.zip
-e1m3 "Tyson" 6:30 "Xit Vono" h1t3-630.zip
-e1m4 "Tyson" 5:22 "Kimo Xvirus" h1t4-522.zip
-e1m8 "Tyson" 5:42 "Lucas Marincak" h1t8-542.zip
-e1m1 "NM Max" 45 "JC" h1x1-045.zip
-e2m2  6:06 "Vincent Catalaa" h272-606.zip
-e2m1 "BP Speed" 21 "Vincent Catalaa" h2b1-021.zip
-e2m2 "BP Speed" 41 "Hitherto" h2b2-041.zip
-e2m2 "BP Speed" 43 "Vincent Catalaa" h2b2-043.zip
-e2m2 "BP Speed" 48 "QWERTY" h2b2-048.zip
-e2m2 "BP Speed" 57 "Vincent Catalaa" h2b2-057.zip
-e2m3 "BP Speed" 51 "QWERTY" h2b3-051.zip
-e2m3 "BP Speed" 1:11 "Vincent Catalaa" h2b3-111.zip
-e2m4 "BP Speed" 1:14 "QWERTY" h2b4-114.zip
-e2m4s "BP Speed" 1:20 "QWERTY" h2b4s120.zip
-e2m5 "BP Speed" 22 "Vincent Catalaa" h2b5-022.zip
-e2m5 "BP Speed" 25 "QWERTY" h2b5-025.zip
-e2m5 "BP Speed" 26 "Doug Merrill" h2b5-026.zip
-e2m6 "BP Speed" 1:24 "QWERTY" h2b6-124.zip
-e2m6 "BP Speed" 1:53 "Vincent Catalaa" h2b6-153.zip
-e2m7 "BP Speed" 1:04 "QWERTY" h2b7-104.zip
-e2m7 "BP Speed" 1:29 "Vincent Catalaa" h2b7-129.zip
-e2m8 "BP Speed" 2:18 "Vincent Catalaa" h2b8-218.zip
-e2m8 "BP Speed" 8:55 "Branimir H. Beric" h2b8-855.zip
-e2m9 "BP Speed" 51 "QWERTY" h2b9-051.zip
-e2m9 "BP Speed" 1:01 "Vincent Catalaa" h2b9-101.zip
-e2m1 "BP Max" 1:06 "Kimo Xvirus" h2f1-106.zip
-e2m1 "BP Max" 1:18 "Xit Vono" h2f1-118.zip
-e2m1 "BP Max" 1:24 "Vincent Catalaa" h2f1-124.zip
-e2m2 "BP Max" 3:25 "Hitherto" h2f2-325.zip
-e2m2 "BP Max" 4:03 "Xit Vono" h2f2-403.zip
-e2m2 "BP Max" 4:50 "Vincent Catalaa" h2f2-450.zip
-e2m3 "BP Max" 5:17 "Vincent Catalaa" h2f3-517.zip
-e2m4 "BP Max" 8:30 "Bruno Vergílio" h2f4-830.zip
-e2m6 "BP Max" 6:55 "Bruno Vergílio" h2f6-655.zip
-e2m8 "BP Max" 2:27 "Vincent Catalaa" h2f8-227.zip
-e2m9 "BP Max" 7:43 "Vincent Catalaa" h2f9-743.zip
-e2m1 "SM Max" 1:45 "Vincent Catalaa" h2m1-145.zip
-e2m2 "SM Max" 3:36 "Hitherto" h2m2-336.zip
-e2m2 "SM Max" 4:47 "Vincent Catalaa" h2m2-447.zip
-e2m3 "SM Max" 4:30 "Vincent Catalaa" h2m3-430.zip
-e2m4 "SM Max" 6:28 "Vincent Catalaa" h2m4-628.zip
-e2m6 "SM Max" 5:58 "Vincent Catalaa" h2m6-558.zip
-e2m7 "SM Max" 5:18 "Vincent Catalaa" h2m7-518.zip
-e2m8 "SM Max" 1:53 "Vincent Catalaa" h2m8-153.zip
-e2m9 "SM Max" 5:55 "Vincent Catalaa" h2m9-555.zip
-e2m1 "NM Speed" 24 "JC" h2n1-024.zip
-e2m1 "NM Speed" 1:45 "Branimir H. Beric" h2n1-145.zip
-e2m2 "NM Speed" 42 "Hitherto" h2n2-042.zip
-e2m2 "NM Speed" 46 "JC" h2n2-046.zip
-e2m2 "NM Speed" 3:16 "Branimir H. Beric" h2n2-316.zip
-e2m3 "NM Speed" 37 "JC" h2n3-037.zip
-e2m3 "NM Speed" 1:10 "Lucas Marincak" h2n3-110.zip
-e2m3 "NM Speed" 1:55 "Jeff N. Easthope" h2n3-155.zip
-e2m4 "NM Speed" 1:11 "JC" h2n4-111.zip
-e2m4 "NM Speed" 1:25 "Lucas Marincak" h2n4-125.zip
-e2m4 "NM Speed" 2:26 "Branimir H. Beric" h2n4-226.zip
-e2m4s "NM Speed" 1:29 "Vincent Catalaa" h2n4s129.zip
-e2m5 "NM Speed" 20 "JC" h2n5-020.zip
-e2m5 "NM Speed" 22 "Vincent Catalaa" h2n5-022.zip
-e2m5 "NM Speed" 55 "Branimir H. Beric" h2n5-055.zip
-e2m5 "NM Speed" 3:26 "Branimir H. Beric" h2n5-326.zip
-e2m6 "NM Speed" 2:35 "Jeff N. Easthope" h2n6-235.zip
-e2m7 "NM Speed" 4:00 "Branimir H. Beric" h2n7-400.zip
-e2m8 "NM Speed" 3:21 "Vincent Catalaa" h2n8-321.zip
-e2m9 "NM Speed" 58 "Lucas Marincak" h2n9-058.zip
-e2m9 "NM Speed" 2:34 "Jeff N. Easthope" h2n9-234.zip
-e2m1 "NoMo" 21:34 "JC" h2o12134.zip
-e2m2 "NoMo" 33:97 "Hitherto" h2o23397.zip
-e2m3 "NoMo" 56 "Lucas Marincak" h2o3-056.zip
-e2m3 "NoMo" 35:62 "JC" h2o33562.zip
-e2m4 "NoMo" 1:10 "Lucas Marincak" h2o4-110.zip
-e2m4 "NoMo" 55:57 "JC" h2o45557.zip
-e2m4s "NoMo" 1:08 "JC" h2o4s108.zip
-e2m5 "NoMo" 17:94 "Kimo Xvirus" h2o51794.zip
-e2m5 "NoMo" 19:85 "JC" h2o51985.zip
-e2m5 "NoMo" 20:97 "QWERTY" h2o52097.zip
-e2m6 "NoMo" 1:08 "Lucas Marincak" h2o6-108.zip
-e2m6 "NoMo" 59:11 "JC" h2o65911.zip
-e2m7 "NoMo" 1:11 "Lucas Marincak" h2o7-111.zip
-e2m7 "NoMo" 56:51 "JC" h2o75651.zip
-e2m9 "NoMo" 50 "Lucas Marincak" h2o9-050.zip
-e2m9 "NoMo" 38:79 "JC" h2o93879.zip
-e2m2 "Pacifist" 59 "Hitherto" h2p2-059.zip
-e2m2 "Pacifist" 1:16 "Xit Vono" h2p2-116.zip
-e2m3 "Pacifist" 1:11 "JC" h2p3-111.zip
-e2m3 "Pacifist" 1:28 "Xit Vono" h2p3-128.zip
-e2m4 "Pacifist" 1:14 "JC" h2p4-114.zip
-e2m4 "Pacifist" 1:28 "JC" h2p4-128.zip
-e2m4 "Pacifist" 1:49 "Xit Vono" h2p4-149.zip
-e2m4s "Pacifist" 1:55 "Lucas Marincak" h2p4s155.zip
-e2m6 "Pacifist" 2:05 "Xit Vono" h2p6-205.zip
-e2m7 "Pacifist" 2:02 "Xit Vono" h2p7-202.zip
-e2m8 "Pacifist" 2:57 "JC" h2p8-257.zip
-e2m8 "Pacifist" 11:20 "PVS" h2p81120.zip
-e2m9 "Pacifist" 54 "JC" h2p9-054.zip
-e2m9 "Pacifist" 58 "Lucas Marincak" h2p9-058.zip
-e2m1 "SM Speed" 20 "Kimo Xvirus" h2s1-020.zip
-e2m1 "SM Speed" 22 "Radek Pecka" h2s1-022.zip
-e2m1 "SM Speed" 24 "Vincent Catalaa" h2s1-024.zip
-e2m2 "SM Speed" 38 "Hitherto" h2s2-038.zip
-e2m2 "SM Speed" 43 "Radek Pecka" h2s2-043.zip
-e2m2 "SM Speed" 44 "Vincent Catalaa" h2s2-044.zip
-e2m3 "SM Speed" 37 "Drew DeVore" h2s3-037.zip
-e2m3 "SM Speed" 41 "QWERTY" h2s3-041.zip
-e2m3 "SM Speed" 1:02 "Vincent Catalaa" h2s3-102.zip
-e2m4 "SM Speed" 1:02 "JC" h2s4-102.zip
-e2m4 "SM Speed" 1:09 "QWERTY" h2s4-109.zip
-e2m4 "SM Speed" 1:18 "Vincent Catalaa" h2s4-118.zip
-e2m4s "SM Speed" 1:15 "QWERTY" h2s4s115.zip
-e2m4s "SM Speed" 1:32 "Vincent Catalaa" h2s4s132.zip
-e2m5 "SM Speed" 21 "Vincent Catalaa" h2s5-021.zip
-e2m5 "SM Speed" 22 "QWERTY" h2s5-022.zip
-e2m5 "SM Speed" 23 "Radek Pecka" h2s5-023.zip
-e2m5 "SM Speed" 24 "Vincent Catalaa" h2s5-024.zip
-e2m6 "SM Speed" 1:17 "Vincent Catalaa" h2s6-117.zip
-e2m7 "SM Speed" 1:03 "QWERTY" h2s7-103.zip
-e2m7 "SM Speed" 1:10 "Radek Pecka" h2s7-110.zip
-e2m7 "SM Speed" 1:23 "Vincent Catalaa" h2s7-123.zip
-e2m8 "SM Speed" 1:03 "Vincent Catalaa" h2s8-103.zip
-e2m9 "SM Speed" 54 "Vincent Catalaa" h2s9-054.zip
-e2m1 "Tyson" 3:02 "Xit Vono" h2t1-302.zip
-e2m2 "Tyson" 7:36 "Hitherto" h2t2-736.zip
-e2m2 "Tyson" 10:28 "Xit Vono" h2t21028.zip
-e2m8 "Tyson" 9:22 "Lucas Marincak" h2t8-922.zip
-e3m2 "SM Speed" 41 "QWERTY" h3S2-041.zip
-e3m1 "BP Speed" 25 "Xit Vono" h3b1-025.zip
-e3m1 "BP Speed" 26 "QWERTY" h3b1-026.zip
-e3m1 "BP Speed" 40 "Radek Pecka" h3b1-040.zip
-e3m2 "BP Speed" 38 "QWERTY" h3b2-038.zip
-e3m2 "BP Speed" 59 "Vincent Catalaa" h3b2-059.zip
-e3m3 "BP Speed" 1:23 "QWERTY" h3b3-123.zip
-e3m3 "BP Speed" 1:46 "Vincent Catalaa" h3b3-146.zip
-e3m4 "BP Speed" 1:21 "QWERTY" h3b4-121.zip
-e3m4 "BP Speed" 1:40 "Vincent Catalaa" h3b4-140.zip
-e3m4s "BP Speed" 1:12 "Vincent Catalaa" h3b4s112.zip
-e3m4s "BP Speed" 1:20 "Vincent Catalaa" h3b4s120.zip
-e3m5 "BP Speed" 52 "QWERTY" h3b5-052.zip
-e3m5 "BP Speed" 58 "Vincent Catalaa" h3b5-058.zip
-e3m6 "BP Speed" 1:13 "Vincent Catalaa" h3b6-113.zip
-e3m7 "BP Speed" 2:23 "Vincent Catalaa" h3b7-223.zip
-e3m8 "BP Speed" 4:43 "Vincent Catalaa" h3b8-443.zip
-e3m9 "BP Speed" 45 "QWERTY" h3b9-045.zip
-e3m9 "BP Speed" 47 "Vincent Catalaa" h3b9-047.zip
-e3m1 "BP Max" 4:31 "Xit Vono" h3f1-431.zip
-e3m1 "BP Max" 4:49 "Vincent Catalaa" h3f1-449.zip
-e3m2 "BP Max" 4:56 "Vincent Catalaa" h3f2-456.zip
-e3m3 "BP Max" 7:31 "Bruno Vergílio" h3f3-731.zip
-e3m4 "BP Max" 8:12 "Bruno Vergílio" h3f4-812.zip
-e3m5 "BP Max" 7:08 "Bruno Vergílio" h3f5-708.zip
-e3m6 "BP Max" 6:47 "Bruno Vergílio" h3f6-647.zip
-e3m7 "BP Max" 12:57 "Bruno Vergílio" h3f71257.zip
-e3m8 "BP Max" 3:25 "Xit Vono" h3f8-325.zip
-e3m8 "BP Max" 4:43 "Vincent Catalaa" h3f8-443.zip
-e3m9 "BP Max" 5:43 "Vincent Catalaa" h3f9-543.zip
-e3m1 "SM Max" 4:39 "Vincent Catalaa" h3m1-439.zip
-e3m2 "SM Max" 7:08 "Bruno Vergílio" h3m2-708.zip
-e3m3 "SM Max" 8:44 "Bruno Vergílio" h3m3-844.zip
-e3m4 "SM Max" 10:41 "Bruno Vergílio" h3m41041.zip
-e3m5 "SM Max" 7:30 "Bruno Vergílio" h3m5-730.zip
-e3m6 "SM Max" 7:12 "Bruno Vergílio" h3m6-712.zip
-e3m7 "SM Max" 9:42 "Bruno Vergílio" h3m7-942.zip
-e3m8 "SM Max" 1:14 "Xit Vono" h3m8-114.zip
-e3m8 "SM Max" 2:28 "Vincent Catalaa" h3m8-228.zip
-e3m9 "SM Max" 5:47 "Vincent Catalaa" h3m9-547.zip
-e3m1 "NM Speed" 32 "JC" h3n1-032.zip
-e3m1 "NM Speed" 38 "Vincent Catalaa" h3n1-038.zip
-e3m1 "NM Speed" 1:37 "Branimir H. Beric" h3n1-137.zip
-e3m2 "NM Speed" 36 "Vincent Catalaa" h3n2-036.zip
-e3m2 "NM Speed" 1:13 "Jeff N. Easthope" h3n2-113.zip
-e3m3 "NM Speed" 2:52 "Branimir H. Beric" h3n3-252.zip
-e3m4 "NM Speed" 1:11 "Vincent Catalaa" h3n4-111.zip
-e3m4 "NM Speed" 2:03 "Branimir H. Beric" h3n4-203.zip
-e3m4s "NM Speed" 1:05 "Vincent Catalaa" h3n4s105.zip
-e3m5 "NM Speed" 2:01 "Branimir H. Beric" h3n5-201.zip
-e3m6 "NM Speed" 1:55 "Branimir H. Beric" h3n6-155.zip
-e3m7 "NM Speed" 3:19 "Jeff N. Easthope" h3n7-319.zip
-e3m8 "NM Speed" 2:17 "JC" h3n8-217.zip
-e3m8 "NM Speed" 4:15 "Xit Vono" h3n8-415.zip
-e3m8 "NM Speed" 4:45 "Drew DeVore" h3n8-445.zip
-e3m9 "NM Speed" 43 "JC" h3n9-043.zip
-e3m9 "NM Speed" 1:17 "Branimir H. Beric" h3n9-117.zip
-e3m1 "NoMo" 42:71 "Kimo Xvirus" h3o14271.zip
-e3m1 "NoMo" 49:85 "JC" h3o14985.zip
-e3m2 "NoMo" 31:94 "Kimo Xvirus" h3o23194.zip
-e3m2 "NoMo" 41:11 "JC" h3o24111.zip
-e3m3 "NoMo" 57 "JC" h3o3-057.zip
-e3m4 "NoMo" 1:04 "JC" h3o4-104.zip
-e3m4s "NoMo" 0:59 "JC" h3o4s059.zip
-e3m5 "NoMo" 44:85 "JC" h3o54485.zip
-e3m6 "NoMo" 57:11 "JC" h3o65711.zip
-e3m7 "NoMo" 1:19 "JC" h3o7-119.zip
-e3m9 "NoMo" 32:74 "JC" h3o93274.zip
-e3m1 "Pacifist" 28 "JC" h3p1-028.zip
-e3m1 "Pacifist" 30 "Xit Vono" h3p1-030.zip
-e3m1 "Pacifist" 33 "JC" h3p1-033.zip
-e3m2 "Pacifist" 51 "Lucas Marincak" h3p2-051.zip
-e3m3 "Pacifist" 1:15 "JC" h3p3-115.zip
-e3m3 "Pacifist" 2:05 "Lucas Marincak" h3p3-205.zip
-e3m4 "Pacifist" 2:07 "Vincent Catalaa" h3p4-207.zip
-e3m4s "Pacifist" 2:32 "Lucas Marincak" h3p4s232.zip
-e3m5 "Pacifist" 1:06 "Vincent Catalaa" h3p5-106.zip
-e3m6 "Pacifist" 1:06 "Vincent Catalaa" h3p6-106.zip
-e3m7 "Pacifist" 2:13 "Vincent Catalaa" h3p7-213.zip
-e3m9 "Pacifist" 40 "Vincent Catalaa" h3p9-040.zip
-e3m1 "SM Speed" 26 "Xit Vono" h3s1-026.zip
-e3m1 "SM Speed" 28 "Radek Pecka" h3s1-028.zip
-e3m1 "SM Speed" 32 "Vincent Catalaa" h3s1-032.zip
-e3m2 "SM Speed" 31 "JC" h3s2-031.zip
-e3m2 "SM Speed" 40 "Vincent Catalaa" h3s2-040.zip
-e3m2 "SM Speed" 46 "Vincent Catalaa" h3s2-046.zip
-e3m3 "SM Speed" 1:13 "Vincent Catalaa" h3s3-113.zip
-e3m4 "SM Speed" 1:19 "Vincent Catalaa" h3s4-119.zip
-e3m4s "SM Speed" 1:14 "Vincent Catalaa" h3s4s114.zip
-e3m5 "SM Speed" 55 "QWERTY" h3s5-055.zip
-e3m5 "SM Speed" 57 "Vincent Catalaa" h3s5-057.zip
-e3m6 "SM Speed" 58 "Vincent Catalaa" h3s6-058.zip
-e3m6 "SM Speed" 1:07 "Vincent Catalaa" h3s6-107.zip
-e3m6 "SM Speed" 1:17 "Vincent Catalaa" h3s6-117.zip
-e3m7 "SM Speed" 1:39 "Vincent Catalaa" h3s7-139.zip
-e3m7 "SM Speed" 1:41 "Vincent Catalaa" h3s7-141.zip
-e3m7 "SM Speed" 1:58 "Vincent Catalaa" h3s7-158.zip
-e3m8 "SM Speed" 54 "Kimo Xvirus" h3s8-054.zip
-e3m8 "SM Speed" 1:12 "JC" h3s8-112.zip
-e3m8 "SM Speed" 1:13 "Xit Vono" h3s8-113.zip
-e3m8 "SM Speed" 1:20 "Vincent Catalaa" h3s8-120.zip
-e3m9 "SM Speed" 34 "Vincent Catalaa" h3s9-034.zip
-e3m1 "Tyson" 10:17 "Xit Vono" h3t11017.zip
-e3m8 "Tyson" 3:55 "Xit Vono" h3t8-355.zip
-e4m1 "BP Speed" 1:28 "Xit Vono" h4b1-128.zip
-e4m1 "BP Speed" 1:35 "Vincent Catalaa" h4b1-135.zip
-e4m1 "BP Speed" 2:16 "QWERTY" h4b1-216.zip
-e4m2 "BP Speed" 1:13 "QWERTY" h4b2-113.zip
-e4m2 "BP Speed" 1:26 "Vincent Catalaa" h4b2-126.zip
-e4m2 "BP Speed" 1:54 "QWERTY" h4b2-154.zip
-e4m2 "BP Speed" 3:04 "Vincent Catalaa" h4b2-304.zip
-e4m3 "BP Speed" 2:05 "QWERTY" h4b3-205.zip
-e4m3 "BP Speed" 2:40 "Vincent Catalaa" h4b3-240.zip
-e4m4 "BP Speed" 28 "Vincent Catalaa" h4b4-028.zip
-e4m4 "BP Speed" 30 "QWERTY" h4b4-030.zip
-e4m4 "BP Speed" 1:00 "Vincent Catalaa" h4b4-100.zip
-e4m4s "BP Speed" 1:34 "Vincent Catalaa" h4b4s134.zip
-e4m5 "BP Speed" 1:46 "Xit Vono" h4b5-146.zip
-e4m5 "BP Speed" 2:00 "QWERTY" h4b5-200.zip
-e4m5 "BP Speed" 2:17 "QWERTY" h4b5-217.zip
-e4m5 "BP Speed" 2:55 "Vincent Catalaa" h4b5-255.zip
-e4m5 "BP Speed" 4:30 "QWERTY" h4b5-430.zip
-e4m6 "BP Speed" 1:20 "QWERTY" h4b6-120.zip
-e4m7 "BP Speed" 1:41 "QWERTY" h4b7-141.zip
-e4m8 "BP Speed" 3:17 "QWERTY" h4b8-317.zip
-e4m8 "BP Speed" 3:51 "QWERTY" h4b8-351.zip
-e4m9 "BP Speed" 2:15 "QWERTY" h4b9-215.zip
-e4m1 "BP Max" 12:15 "Xit Vono" h4f11215.zip
-e4m1 "BP Max" 13:02 "Vincent Catalaa" h4f11302.zip
-e4m2 "BP Max" 7:57 "Bruno Vergílio" h4f2-757.zip
-e4m3 "BP Max" 14:16 "Bruno Vergílio" h4f31416.zip
-e4m4 "BP Max" 11:06 "Bruno Vergílio" h4f41106.zip
-e4m5 "BP Max" 9:06 "Bruno Vergílio" h4f5-906.zip
-e4m5 "BP Max" 9:10 "Xit Vono" h4f5-910.zip
-e4m5 "BP Max" 13:20 "Bruno Vergílio" h4f51320.zip
-e4m6 "BP Max" 12:07 "Bruno Vergílio" h4f61207.zip
-e4m6 "BP Max" 4:45 "Mikhail Volkov" h4f6445.zip
-e4m7 "BP Max" 13:44 "Bruno Vergílio" h4f71344.zip
-e4m8 "BP Max" 3:44 "Vincent Catalaa" h4f8-344.zip
-e4m9 "BP Max" 13:18 "Vincent Catalaa" h4f91318.zip
-e4m1 "SM Max" 11:47 "Vincent Catalaa" h4m11147.zip
-e4m2 "SM Max" 11:21 "Bruno Vergílio" h4m21121.zip
-e4m3 "SM Max" 9:38 "Bruno Vergílio" h4m3-938.zip
-e4m4 "SM Max" 9:06 "Bruno Vergílio" h4m4-906.zip
-e4m5 "SM Max" 10:13 "Bruno Vergílio" h4m51013.zip
-e4m7 "SM Max" 10:41 "Bruno Vergílio" h4m71041.zip
-e4m8 "SM Max" 3:50 "Bruno Vergílio" h4m8-350.zip
-e4m8 "SM Max" 4:03 "Bruno Vergílio" h4m8-403.zip
-e4m9 "SM Max" 11:43 "William Huber" h4m91143.zip
-e4m1 "NM Speed" 2:05 "Vincent Catalaa" h4n1-205.zip
-e4m2 "NM Speed" 1:12 "Vincent Catalaa" h4n2-112.zip
-e4m3 "NM Speed" 2:22 "Vincent Catalaa" h4n3-222.zip
-e4m4 "NM Speed" 28 "Vincent Catalaa" h4n4-028.zip
-e4m4s "NM Speed" 1:30 "JC" h4n4s130.zip
-e4m5 "NM Speed" 2:01 "Vincent Catalaa" h4n5-201.zip
-e4m6 "NM Speed" 1:26 "JC" h4n6-126.zip
-e4m7 "NM Speed" 1:41 "Vincent Catalaa" h4n7-141.zip
-e4m8 "NM Speed" 2:07 "Vincent Catalaa" h4n8-207.zip
-e4m1 "NoMo" 1:03 "JC" h4o1-103.zip
-e4m2 "NoMo" 30 "JC" h4o2-030.zip
-e4m2 "NoMo" 1:05 "JC" h4o2-105.zip
-e4m2 "NoMo" 1:08 "PVS" h4o2-108.zip
-e4m3 "NoMo" 1:46 "JC" h4o3-146.zip
-e4m4 "NoMo" 24:45 "Kimo Xvirus" h4o42445.zip
-e4m4 "NoMo" 25:60 "Vincent Catalaa" h4o42560.zip
-e4m4 "NoMo" 26:91 "QWERTY" h4o42691.zip
-e4m4s "NoMo" 1:15 "JC" h4o4s115.zip
-e4m5 "NoMo" 1:19 "JC" h4o5-119.zip
-e4m6 "NoMo" 1:03 "JC" h4o6-103.zip
-e4m7 "NoMo" 1:05 "JC" h4o7-105.zip
-e4m7 "NoMo" 1:14 "QWERTY" h4o7-114.zip
-e4m9 "NoMo" 1:34 "JC" h4o9-134.zip
-e4m9 "NoMo" 1:50 "JC" h4o9-150.zip
-e4m1 "Pacifist" 3:47 "Xit Vono" h4p1-347.zip
-e4m2 "Pacifist" 4:19 "Xit Vono" h4p2-419.zip
-e4m4s "Pacifist" 2:03 "Vincent Catalaa" h4p4s203.zip
-e4m5 "Pacifist" 1:51 "Vincent Catalaa" h4p5-151.zip
-e4m5 "Pacifist" 2:20 "Xit Vono" h4p5-220.zip
-e4m1 "SM Speed" 1:38 "QWERTY" h4s1-138.zip
-e4m1 "SM Speed" 2:39 "Vincent Catalaa" h4s1-239.zip
-e4m2 "SM Speed" 32 "JC" h4s2-032.zip
-e4m2 "SM Speed" 1:12 "QWERTY" h4s2-112.zip
-e4m2 "SM Speed" 1:16 "Vincent Catalaa" h4s2-116.zip
-e4m2 "SM Speed" 1:28 "Vincent Catalaa" h4s2-128.zip
-e4m3 "SM Speed" 1:58 "Radek Pecka" h4s3-158.zip
-e4m3 "SM Speed" 2:52 "Vincent Catalaa" h4s3-252.zip
-e4m4 "SM Speed" 27 "Kimo Xvirus" h4s4-027.zip
-e4m4 "SM Speed" 28 "Radek Pecka" h4s4-028.zip
-e4m4 "SM Speed" 29 "QWERTY" h4s4-029.zip
-e4m4 "SM Speed" 31 "QWERTY" h4s4-031.zip
-e4m4 "SM Speed" 55 "Radek Pecka" h4s4-055.zip
-e4m4 "SM Speed" 1:25 "Vincent Catalaa" h4s4-125.zip
-e4m4s "SM Speed" 1:43 "Vincent Catalaa" h4s4s143.zip
-e4m5 "SM Speed" 1:35 "Radek Pecka" h4s5-135.zip
-e4m5 "SM Speed" 1:59 "Vincent Catalaa" h4s5-159.zip
-e4m6 "SM Speed" 1:24 "QWERTY" h4s6-124.zip
-e4m6 "SM Speed" 1:54 "Vincent Catalaa" h4s6-154.zip
-e4m7 "SM Speed" 1:21 "QWERTY" h4s7-121.zip
-e4m7 "SM Speed" 2:51 "Vincent Catalaa" h4s7-251.zip
-e4m8 "SM Speed" 1:52 "QWERTY" h4s8-152.zip
-e4m8 "SM Speed" 3:14 "Vincent Catalaa" h4s8-314.zip
-e4m9 "SM Speed" 2:19 "QWERTY" h4s9-219.zip
-e4m9 "SM Speed" 3:49 "Vincent Catalaa" h4s9-349.zip
-e5m1 "BP Speed" 2:01 "QWERTY" h5b1-201.zip
-e5m2 "BP Speed" 1:51 "QWERTY" h5b2-151.zip
-e5m3 "BP Speed" 42 "QWERTY" h5b3-042.zip
-e5m3 "BP Speed" 1:38 "Vincent Catalaa" h5b3-138.zip
-e5m3s "BP Speed" 0:51 "QWERTY" h5b3s051.zip
-e5m4 "BP Speed" 1:35 "QWERTY" h5b4-135.zip
-e5m5 "BP Speed" 2:53 "QWERTY" h5b5-253.zip
-e5m6 "BP Speed" 2:19 "QWERTY" h5b6-219.zip
-e5m7 "BP Speed" 2:26 "QWERTY" h5b7-226.zip
-e5m8 "BP Speed" 6:08 "Vincent Catalaa" h5b8-608.zip
-e5m9 "BP Speed" 2:18 "QWERTY" h5b9-218.zip
-e5m1 "BP Max" 12:01 "Bruno Vergílio" h5f11201.zip
-e5m2 "BP Max" 7:44 "Bruno Vergílio" h5f2-744.zip
-e5m3 "BP Max" 8:03 "Vincent Catalaa" h5f3-803.zip
-e5m4 "BP Max" 9:30 "Bruno Vergílio" h5f4-930.zip
-e5m6 "BP Max" 12:39 "Bruno Vergílio" h5f61239.zip
-e5m7 "BP Max" 13:04 "Vincent Catalaa" h5f71304.zip
-e5m8 "BP Max" 6:08 "Vincent Catalaa" h5f8-608.zip
-e5m9 "BP Max" 11:55 "Vincent Catalaa" h5f91155.zip
-e5m1 "SM Max" 14:19 "Bruno Vergílio" h5m11419.zip
-e5m2 "SM Max" 7:44 "Bruno Vergílio" h5m2-744.zip
-e5m3 "SM Max" 7:27 "Vincent Catalaa" h5m3-727.zip
-e5m4 "SM Max" 9:19 "Bruno Vergílio" h5m4-919.zip
-e5m5 "SM Max" 18:45 "Bruno Vergílio" h5m51845.zip
-e5m6 "SM Max" 11:57 "Bruno Vergílio" h5m61157.zip
-e5m7 "SM Max" 11:27 "Bruno Vergílio" h5m71127.zip
-e5m8 "SM Max" 4:00 "Vincent Catalaa" h5m8-400.zip
-e5m8 "SM Max" 4:09 "Vincent Catalaa" h5m8-409.zip
-e5m9 "SM Max" 11:57 "Vincent Catalaa" h5m91157.zip
-e5m1 "NM Speed" 2:16 "JC" h5n1-216.zip
-e5m2 "NM Speed" 1:48 "JC" h5n2-148.zip
-e5m3 "NM Speed" 41 "JC" h5n3-041.zip
-e5m3 "NM Speed" 1:03 "Vincent Catalaa" h5n3-103.zip
-e5m3s "NM Speed" 0:55 "JC" h5n3s055.zip
-e5m4 "NM Speed" 1:36 "Vincent Catalaa" h5n4-136.zip
-e5m5 "NM Speed" 2:50 "JC" h5n5-250.zip
-e5m7 "NM Speed" 56 "JC" h5n7-056.zip
-e5m7 "NM Speed" 1:55 "JC" h5n7-155.zip
-e5m7 "NM Speed" 2:20 "Vincent Catalaa" h5n7-220.zip
-e5m1 "NoMo" 59 "JC" h5o1-059.zip
-e5m2 "NoMo" 56 "JC" h5o2-056.zip
-e5m2 "NoMo" 1:01 "JC" h5o2-101.zip
-e5m2 "NoMo" 1:08 "PVS" h5o2-108.zip
-e5m3 "NoMo" 38 "QWERTY" h5o3-038.zip
-e5m3s "NoMo" 0:46 "QWERTY" h5o3s046.zip
-e5m4 "NoMo" 27 "JC" h5o4-027.zip
-e5m5 "NoMo" 1:34 "JC" h5o5-134.zip
-e5m6 "NoMo" 1:14 "JC" h5o6-114.zip
-e5m7 "NoMo" 48:62 "JC" h5o74862.zip
-e5m9 "NoMo" 1:32 "JC" h5o9-132.zip
-e5m3 "Pacifist" 45 "JC" h5p3-045.zip
-e5m3s "Pacifist" 0:56 "JC" h5p3s056.zip
-e5m1 "SM Speed" 1:57 "QWERTY" h5s1-157.zip
-e5m1 "SM Speed" 4:12 "Vincent Catalaa" h5s1-412.zip
-e5m2 "SM Speed" 1:47 "QWERTY" h5s2-147.zip
-e5m2 "SM Speed" 3:44 "Vincent Catalaa" h5s2-344.zip
-e5m3 "SM Speed" 41 "QWERTY" h5s3-041.zip
-e5m3 "SM Speed" 43 "QWERTY" h5s3-043.zip
-e5m3 "SM Speed" 1:20 "Vincent Catalaa" h5s3-120.zip
-e5m3s "SM Speed" 0:49 "QWERTY" h5s3s049.zip
-e5m4 "SM Speed" 30 "JC" h5s4-030.zip
-e5m4 "SM Speed" 1:32 "QWERTY" h5s4-132.zip
-e5m5 "SM Speed" 2:35 "QWERTY" h5s5-235.zip
-e5m5 "SM Speed" 3:09 "QWERTY" h5s5-309.zip
-e5m5 "SM Speed" 5:48 "Vincent Catalaa" h5s5-548.zip
-e5m6 "SM Speed" 1:52 "QWERTY" h5s6-152.zip
-e5m6 "SM Speed" 2:15 "QWERTY" h5s6-215.zip
-e5m7 "SM Speed" 50 "JC" h5s7-050.zip
-e5m7 "SM Speed" 1:49 "JC" h5s7-149.zip
-e5m7 "SM Speed" 1:58 "QWERTY" h5s7-158.zip
-e5m8 "SM Speed" 2:50 "Vincent Catalaa" h5s8-250.zip
-e5m8 "SM Speed" 3:36 "JC" h5s8-336.zip
-e5m8 "SM Speed" 4:00 "Vincent Catalaa" h5s8-400.zip
-e5m8 "SM Speed" 4:09 "Vincent Catalaa" h5s8-409.zip
-e5m9 "SM Speed" 2:12 "QWERTY" h5s9-212.zip
-e6m1 "BP Speed" 21 "Vincent Catalaa" h6b1-021.zip
-e6m1 "BP Speed" 23 "QWERTY" h6b1-023.zip
-e6m1 "BP Speed" 24 "QWERTY" h6b1-024.zip
-e6m2 "BP Speed" 1:30 "Vincent Catalaa" h6b2-130.zip
-e6m1 "BP Max" 5:10 "Vincent Catalaa" h6f1-510.zip
-e6m2 "BP Max" 11:27 "Vincent Catalaa" h6f21127.zip
-e6m3 "BP Max" 1:32 "Bruno Vergílio" h6f3-132.zip
-e6m1 "SM Max" 5:44 "Vincent Catalaa" h6m1-544.zip
-e6m2 "SM Max" 7:34 "Vincent Catalaa" h6m2-734.zip
-e6m3 "SM Max" 1:31 "Bruno Vergílio" h6m3-131.zip
-e6m1 "NM Speed" 22 "Vincent Catalaa" h6n1-022.zip
-e6m2 "NM Speed" 1:26 "Vincent Catalaa" h6n2-126.zip
-e6m1 "NoMo" 18:80 "Kimo Xvirus" h6o11880.zip
-e6m1 "NoMo" 19:65 "Vincent Catalaa" h6o11965.zip
-e6m2 "NoMo" 47:39 "Vincent Catalaa" h6o24739.zip
-e6m2 "Pacifist" 1:13 "QWERTY" h6p2-113.zip
-e6m1 "SM Speed" 21 "Vincent Catalaa" h6s1-021.zip
-e6m1 "SM Speed" 22 "Vincent Catalaa" h6s1-022.zip
-e6m2 "SM Speed" 56 "QWERTY" h6s2-056.zip
-e6m2 "SM Speed" 1:13 "QWERTY" h6s2-113.zip
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:30" level: "E1M1" levelstat: "1:30" category_name: "BP Max" video_link: "" players: "Andrey Boldt" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:35" level: "E1M1" levelstat: "1:35" category_name: "BP Max" video_link: "" players: "Andrey Boldt" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:41" level: "E1M1" levelstat: "1:41" category_name: "BP Max" video_link: "" players: "Andrey Boldt" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:22" level: "E1M2" levelstat: "4:22" category_name: "BP Max" video_link: "" players: "Andrey Boldt" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:23" level: "E1M2" levelstat: "5:23" category_name: "BP Max" video_link: "" players: "Laurent Sebellin" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:06" level: "E1M1" levelstat: "2:06" category_name: "SM Max" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:38" level: "E1M1" levelstat: "2:38" category_name: "SM Max" video_link: "" players: "William Huber" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:22" level: "E1M2" levelstat: "4:22" category_name: "SM Max" video_link: "" players: "Andrey Boldt" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:43" level: "E1M2" levelstat: "1:43" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:01" level: "E1M9" levelstat: "1:01" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E1M9" levelstat: "1:11" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:59" level: "E1M1" levelstat: "1:59" category_name: "Tyson" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:14" level: "E1M1" levelstat: "2:14" category_name: "Tyson" video_link: "" players: "Andrey Boldt" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:59" level: "E1M4" levelstat: "0:59" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:56" level: "E1M5" levelstat: "0:56" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E1M1" levelstat: "0:30" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:39" level: "E2M5" levelstat: "4:39" category_name: "SM Max" video_link: "" players: "William Huber" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:14" level: "E2M5" levelstat: "6:14" category_name: "SM Max" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:24" level: "E2M1" levelstat: "0:24" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:24" level: "E2M5" levelstat: "0:24" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:38" level: "E3M2" levelstat: "0:38" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:39" level: "E3M9" levelstat: "0:39" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:21" level: "E4M1" levelstat: "1:21" category_name: "BP Speed" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:21" level: "E4M6" levelstat: "6:21" category_name: "SM Max" video_link: "" players: "William Huber" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E4M2" levelstat: "1:11" category_name: "Pacifist" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:15" level: "E4M1" levelstat: "1:15" category_name: "SM Speed" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:33" level: "E4M4" levelstat: "0:33" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "23:55" level: "E5M5" levelstat: "23:55" category_name: "BP Max" video_link: "" players: "Laurent Sebellin" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:08" level: "E5M1" levelstat: "11:08" category_name: "SM Max" video_link: "" players: "Laurent Sebellin" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:26" level: "E6M1" levelstat: "0:26" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E1M1" levelstat: "0:28" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:32" level: "E1M1" levelstat: "0:32" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:15" level: "E1M2" levelstat: "1:15" category_name: "BP Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:18" level: "E1M2" levelstat: "1:18" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:26" level: "E1M2" levelstat: "1:26" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:34" level: "E1M2" levelstat: "1:34" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:53" level: "E1M2" levelstat: "1:53" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:46" level: "E1M3" levelstat: "0:46" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:48" level: "E1M3" levelstat: "0:48" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:50" level: "E1M3" levelstat: "0:50" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:48" level: "E1M4" levelstat: "0:48" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:49" level: "E1M4" levelstat: "0:49" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:55" level: "E1M5" levelstat: "0:55" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:01" level: "E1M5" levelstat: "1:01" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E1M6" levelstat: "1:11" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:25" level: "E1M6" levelstat: "1:25" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:34" level: "E1M6s" levelstat: "1:34" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:17" level: "E1M7" levelstat: "1:17" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:31" level: "E1M7" levelstat: "1:31" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:34" level: "E1M8" levelstat: "0:34" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:38" level: "E1M8" levelstat: "0:38" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:46" level: "E1M8" levelstat: "0:46" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E1M9" levelstat: "1:14" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:33" level: "E1M1" levelstat: "1:33" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:38" level: "E1M1" levelstat: "1:38" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:14" level: "E1M1" levelstat: "2:14" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:11" level: "E1M2" levelstat: "5:11" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:41" level: "E1M3" levelstat: "2:41" category_name: "BP Max" video_link: "" players: "Drew DeVore" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:50" level: "E1M3" levelstat: "2:50" category_name: "BP Max" video_link: "" players: "Drew DeVore" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:10" level: "E1M4" levelstat: "3:10" category_name: "BP Max" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:27" level: "E1M4" levelstat: "4:27" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:13" level: "E1M5" levelstat: "6:13" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:18" level: "E1M6" levelstat: "6:18" category_name: "BP Max" video_link: "" players: "William Huber" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:33" level: "E1M7" levelstat: "8:33" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:38" level: "E1M8" levelstat: "2:38" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:26" level: "E1M9" levelstat: "5:26" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:33" level: "E1M1" levelstat: "1:33" category_name: "SM Max" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:00" level: "E1M1" levelstat: "4:00" category_name: "SM Max" video_link: "" players: "Arno Slagboom" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:51" level: "E1M2" levelstat: "5:51" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:09" level: "E1M3" levelstat: "5:09" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:32" level: "E1M4" levelstat: "5:32" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:37" level: "E1M5" levelstat: "6:37" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:40" level: "E1M6" levelstat: "6:40" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:19" level: "E1M7" levelstat: "7:19" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:13" level: "E1M8" levelstat: "2:13" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:47" level: "E1M9" levelstat: "6:47" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:27" level: "E1M1" levelstat: "0:27" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E1M1" levelstat: "0:28" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E1M1" levelstat: "0:30" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E1M1" levelstat: "1:11" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:34" level: "E1M2" levelstat: "3:34" category_name: "NM Speed" video_link: "" players: "Jeff Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:54" level: "E1M3" levelstat: "0:54" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:18" level: "E1M3" levelstat: "3:18" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:52" level: "E1M4" levelstat: "2:52" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:10" level: "E1M5" levelstat: "3:10" category_name: "NM Speed" video_link: "" players: "Jeff Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E1M6" levelstat: "1:20" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:28" level: "E1M6" levelstat: "2:28" category_name: "NM Speed" video_link: "" players: "Jeff Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:12" level: "E1M6s" levelstat: "1:12" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E1M7" levelstat: "1:20" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:51" level: "E1M7" levelstat: "2:51" category_name: "NM Speed" video_link: "" players: "Jeff Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E1M8" levelstat: "0:30" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:35" level: "E1M8" levelstat: "0:35" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:35" level: "E1M8" levelstat: "1:35" category_name: "NM Speed" video_link: "" players: "Jeff Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:16" level: "E1M9" levelstat: "1:16" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:35" level: "E1M9" levelstat: "2:35" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "25:68" level: "E1M1" levelstat: "25:68" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "26:82" level: "E1M1" levelstat: "26:82" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E1M2" levelstat: "1:03" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:07" level: "E1M2" levelstat: "1:07" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "36:74" level: "E1M3" levelstat: "36:74" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "31:05" level: "E1M4" levelstat: "31:05" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "39:34" level: "E1M5" levelstat: "39:34" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "52:31" level: "E1M6" levelstat: "52:31" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:57" level: "E1M6s" levelstat: "0:57" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:50" level: "E1M7" levelstat: "0:50" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "53:85" level: "E1M7" levelstat: "53:85" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "55:20" level: "E1M7" levelstat: "55:20" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "59:74" level: "E1M7" levelstat: "59:74" category_name: "NoMo" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "59:31" level: "E1M9" levelstat: "59:31" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:27" level: "E1M1" levelstat: "0:27" category_name: "Pacifist" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:15" level: "E1M2" levelstat: "3:15" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:01" level: "E1M3" levelstat: "1:01" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:56" level: "E1M4" levelstat: "1:56" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:49" level: "E1M5" levelstat: "1:49" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:09" level: "E1M6" levelstat: "2:09" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:28" level: "E1M6" levelstat: "2:28" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:42" level: "E1M6" levelstat: "4:42" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:09" level: "E1M6s" levelstat: "5:09" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:16" level: "E1M7" levelstat: "1:16" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:19" level: "E1M8" levelstat: "2:19" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:25" level: "E1M8" levelstat: "4:25" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:58" level: "E1M9" levelstat: "0:58" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:59" level: "E1M9" levelstat: "0:59" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:02" level: "E1M9" levelstat: "1:02" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E1M9" levelstat: "1:03" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:21" level: "E1M9" levelstat: "1:21" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:25" level: "E1M1" levelstat: "0:25" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:26" level: "E1M1" levelstat: "0:26" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:27" level: "E1M1" levelstat: "0:27" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E1M1" levelstat: "0:28" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:29" level: "E1M1" levelstat: "0:29" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:10" level: "E1M2" levelstat: "1:10" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:18" level: "E1M2" levelstat: "1:18" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:21" level: "E1M2" levelstat: "1:21" category_name: "SM Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:22" level: "E1M2" levelstat: "1:22" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:34" level: "E1M2" levelstat: "1:34" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:36" level: "E1M2" levelstat: "1:36" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:40" level: "E1M2" levelstat: "1:40" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:45" level: "E1M3" levelstat: "0:45" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:48" level: "E1M3" levelstat: "0:48" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:49" level: "E1M3" levelstat: "0:49" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:39" level: "E1M4" levelstat: "0:39" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:45" level: "E1M4" levelstat: "0:45" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:52" level: "E1M5" levelstat: "0:52" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:10" level: "E1M6" levelstat: "1:10" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E1M6s" levelstat: "1:13" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:04" level: "E1M7" levelstat: "1:04" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:22" level: "E1M7" levelstat: "1:22" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:29" level: "E1M8" levelstat: "0:29" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E1M8" levelstat: "0:30" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:31" level: "E1M8" levelstat: "0:31" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:34" level: "E1M8" levelstat: "0:34" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:37" level: "E1M8" levelstat: "0:37" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:46" level: "E1M8" levelstat: "0:46" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:05" level: "E1M9" levelstat: "1:05" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:52" level: "E1M1" levelstat: "1:52" category_name: "Tyson" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:03" level: "E1M1" levelstat: "2:03" category_name: "Tyson" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:40" level: "E1M1" levelstat: "2:40" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:09" level: "E1M2" levelstat: "8:09" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:30" level: "E1M3" levelstat: "6:30" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:22" level: "E1M4" levelstat: "5:22" category_name: "Tyson" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:42" level: "E1M8" levelstat: "5:42" category_name: "Tyson" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:45" level: "E1M1" levelstat: "0:45" category_name: "NM Max" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:06" level: "E2M2" levelstat: "6:06" category_name: "" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:21" level: "E2M1" levelstat: "0:21" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:41" level: "E2M2" levelstat: "0:41" category_name: "BP Speed" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:43" level: "E2M2" levelstat: "0:43" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:48" level: "E2M2" levelstat: "0:48" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:57" level: "E2M2" levelstat: "0:57" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:51" level: "E2M3" levelstat: "0:51" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E2M3" levelstat: "1:11" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E2M4" levelstat: "1:14" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E2M4s" levelstat: "1:20" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:22" level: "E2M5" levelstat: "0:22" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:25" level: "E2M5" levelstat: "0:25" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:26" level: "E2M5" levelstat: "0:26" category_name: "BP Speed" video_link: "" players: "Doug Merrill" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:24" level: "E2M6" levelstat: "1:24" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:53" level: "E2M6" levelstat: "1:53" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:04" level: "E2M7" levelstat: "1:04" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:29" level: "E2M7" levelstat: "1:29" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:18" level: "E2M8" levelstat: "2:18" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:55" level: "E2M8" levelstat: "8:55" category_name: "BP Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:51" level: "E2M9" levelstat: "0:51" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:01" level: "E2M9" levelstat: "1:01" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:06" level: "E2M1" levelstat: "1:06" category_name: "BP Max" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:18" level: "E2M1" levelstat: "1:18" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:24" level: "E2M1" levelstat: "1:24" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:25" level: "E2M2" levelstat: "3:25" category_name: "BP Max" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:03" level: "E2M2" levelstat: "4:03" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:50" level: "E2M2" levelstat: "4:50" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:17" level: "E2M3" levelstat: "5:17" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:30" level: "E2M4" levelstat: "8:30" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:55" level: "E2M6" levelstat: "6:55" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:27" level: "E2M8" levelstat: "2:27" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:43" level: "E2M9" levelstat: "7:43" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:45" level: "E2M1" levelstat: "1:45" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:36" level: "E2M2" levelstat: "3:36" category_name: "SM Max" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:47" level: "E2M2" levelstat: "4:47" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:30" level: "E2M3" levelstat: "4:30" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:28" level: "E2M4" levelstat: "6:28" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:58" level: "E2M6" levelstat: "5:58" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:18" level: "E2M7" levelstat: "5:18" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:53" level: "E2M8" levelstat: "1:53" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:55" level: "E2M9" levelstat: "5:55" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:24" level: "E2M1" levelstat: "0:24" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:45" level: "E2M1" levelstat: "1:45" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:42" level: "E2M2" levelstat: "0:42" category_name: "NM Speed" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:46" level: "E2M2" levelstat: "0:46" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:16" level: "E2M2" levelstat: "3:16" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:37" level: "E2M3" levelstat: "0:37" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:10" level: "E2M3" levelstat: "1:10" category_name: "NM Speed" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:55" level: "E2M3" levelstat: "1:55" category_name: "NM Speed" video_link: "" players: "Jeff N. Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E2M4" levelstat: "1:11" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:25" level: "E2M4" levelstat: "1:25" category_name: "NM Speed" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:26" level: "E2M4" levelstat: "2:26" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:29" level: "E2M4s" levelstat: "1:29" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:20" level: "E2M5" levelstat: "0:20" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:22" level: "E2M5" levelstat: "0:22" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:55" level: "E2M5" levelstat: "0:55" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:26" level: "E2M5" levelstat: "3:26" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:35" level: "E2M6" levelstat: "2:35" category_name: "NM Speed" video_link: "" players: "Jeff N. Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:00" level: "E2M7" levelstat: "4:00" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:21" level: "E2M8" levelstat: "3:21" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:58" level: "E2M9" levelstat: "0:58" category_name: "NM Speed" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:34" level: "E2M9" levelstat: "2:34" category_name: "NM Speed" video_link: "" players: "Jeff N. Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "21:34" level: "E2M1" levelstat: "21:34" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "33:97" level: "E2M2" levelstat: "33:97" category_name: "NoMo" video_link: "" players: "Hitherto" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:56" level: "E2M3" levelstat: "0:56" category_name: "NoMo" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "35:62" level: "E2M3" levelstat: "35:62" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:57" level: "E2M4" levelstat: "0:57" category_name: "NoMo" video_link: "" players: "Drew DeVore" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:10" level: "E2M4" levelstat: "1:10" category_name: "NoMo" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "55:57" level: "E2M4" levelstat: "55:57" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:08" level: "E2M4s" levelstat: "1:08" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "17:94" level: "E2M5" levelstat: "17:94" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "19:85" level: "E2M5" levelstat: "19:85" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "20:97" level: "E2M5" levelstat: "20:97" category_name: "NoMo" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:08" level: "E2M6" levelstat: "1:08" category_name: "NoMo" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "59:11" level: "E2M6" levelstat: "59:11" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E2M7" levelstat: "1:11" category_name: "NoMo" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "56:51" level: "E2M7" levelstat: "56:51" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:50" level: "E2M9" levelstat: "0:50" category_name: "NoMo" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "38:79" level: "E2M9" levelstat: "38:79" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:59" level: "E2M2" levelstat: "0:59" category_name: "Pacifist" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:16" level: "E2M2" levelstat: "1:16" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E2M3" levelstat: "1:11" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:28" level: "E2M3" levelstat: "1:28" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E2M4" levelstat: "1:14" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:28" level: "E2M4" levelstat: "1:28" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:49" level: "E2M4" levelstat: "1:49" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:55" level: "E2M4s" levelstat: "1:55" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:05" level: "E2M6" levelstat: "2:05" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:02" level: "E2M7" levelstat: "2:02" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:57" level: "E2M8" levelstat: "2:57" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:20" level: "E2M8" levelstat: "11:20" category_name: "Pacifist" video_link: "" players: "PVS" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:54" level: "E2M9" levelstat: "0:54" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:58" level: "E2M9" levelstat: "0:58" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:20" level: "E2M1" levelstat: "0:20" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:22" level: "E2M1" levelstat: "0:22" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:24" level: "E2M1" levelstat: "0:24" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:38" level: "E2M2" levelstat: "0:38" category_name: "SM Speed" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:43" level: "E2M2" levelstat: "0:43" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:44" level: "E2M2" levelstat: "0:44" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:37" level: "E2M3" levelstat: "0:37" category_name: "SM Speed" video_link: "" players: "Drew DeVore" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:41" level: "E2M3" levelstat: "0:41" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:02" level: "E2M3" levelstat: "1:02" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:02" level: "E2M4" levelstat: "1:02" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:09" level: "E2M4" levelstat: "1:09" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:18" level: "E2M4" levelstat: "1:18" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:15" level: "E2M4s" levelstat: "1:15" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:32" level: "E2M4s" levelstat: "1:32" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:21" level: "E2M5" levelstat: "0:21" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:22" level: "E2M5" levelstat: "0:22" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:23" level: "E2M5" levelstat: "0:23" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:24" level: "E2M5" levelstat: "0:24" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:17" level: "E2M6" levelstat: "1:17" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E2M7" levelstat: "1:03" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:10" level: "E2M7" levelstat: "1:10" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:23" level: "E2M7" levelstat: "1:23" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E2M8" levelstat: "1:03" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:54" level: "E2M9" levelstat: "0:54" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:02" level: "E2M1" levelstat: "3:02" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:36" level: "E2M2" levelstat: "7:36" category_name: "Tyson" video_link: "" players: "Hitherto" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "10:28" level: "E2M2" levelstat: "10:28" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:22" level: "E2M8" levelstat: "9:22" category_name: "Tyson" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:41" level: "E3M2" levelstat: "0:41" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:25" level: "E3M1" levelstat: "0:25" category_name: "BP Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:26" level: "E3M1" levelstat: "0:26" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:40" level: "E3M1" levelstat: "0:40" category_name: "BP Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:38" level: "E3M2" levelstat: "0:38" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:59" level: "E3M2" levelstat: "0:59" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:23" level: "E3M3" levelstat: "1:23" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:46" level: "E3M3" levelstat: "1:46" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:21" level: "E3M4" levelstat: "1:21" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:40" level: "E3M4" levelstat: "1:40" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:12" level: "E3M4s" levelstat: "1:12" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E3M4s" levelstat: "1:20" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:52" level: "E3M5" levelstat: "0:52" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:58" level: "E3M5" levelstat: "0:58" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E3M6" levelstat: "1:13" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:23" level: "E3M7" levelstat: "2:23" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:43" level: "E3M8" levelstat: "4:43" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:45" level: "E3M9" levelstat: "0:45" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:47" level: "E3M9" levelstat: "0:47" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:31" level: "E3M1" levelstat: "4:31" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:49" level: "E3M1" levelstat: "4:49" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:56" level: "E3M2" levelstat: "4:56" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:31" level: "E3M3" levelstat: "7:31" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:12" level: "E3M4" levelstat: "8:12" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:08" level: "E3M5" levelstat: "7:08" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:47" level: "E3M6" levelstat: "6:47" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "12:57" level: "E3M7" levelstat: "12:57" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:25" level: "E3M8" levelstat: "3:25" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:43" level: "E3M8" levelstat: "4:43" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:43" level: "E3M9" levelstat: "5:43" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:39" level: "E3M1" levelstat: "4:39" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:08" level: "E3M2" levelstat: "7:08" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:44" level: "E3M3" levelstat: "8:44" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "10:41" level: "E3M4" levelstat: "10:41" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:30" level: "E3M5" levelstat: "7:30" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:12" level: "E3M6" levelstat: "7:12" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:42" level: "E3M7" levelstat: "9:42" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E3M8" levelstat: "1:14" category_name: "SM Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:28" level: "E3M8" levelstat: "2:28" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:47" level: "E3M9" levelstat: "5:47" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:32" level: "E3M1" levelstat: "0:32" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:38" level: "E3M1" levelstat: "0:38" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:37" level: "E3M1" levelstat: "1:37" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:36" level: "E3M2" levelstat: "0:36" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E3M2" levelstat: "1:13" category_name: "NM Speed" video_link: "" players: "Jeff N. Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:52" level: "E3M3" levelstat: "2:52" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:11" level: "E3M4" levelstat: "1:11" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:03" level: "E3M4" levelstat: "2:03" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:05" level: "E3M4s" levelstat: "1:05" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:01" level: "E3M5" levelstat: "2:01" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:55" level: "E3M6" levelstat: "1:55" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:19" level: "E3M7" levelstat: "3:19" category_name: "NM Speed" video_link: "" players: "Jeff N. Easthope" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:17" level: "E3M8" levelstat: "2:17" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:15" level: "E3M8" levelstat: "4:15" category_name: "NM Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:45" level: "E3M8" levelstat: "4:45" category_name: "NM Speed" video_link: "" players: "Drew DeVore" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:43" level: "E3M9" levelstat: "0:43" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:17" level: "E3M9" levelstat: "1:17" category_name: "NM Speed" video_link: "" players: "Branimir H. Beric" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "42:71" level: "E3M1" levelstat: "42:71" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "49:85" level: "E3M1" levelstat: "49:85" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "31:94" level: "E3M2" levelstat: "31:94" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "41:11" level: "E3M2" levelstat: "41:11" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:57" level: "E3M3" levelstat: "0:57" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:04" level: "E3M4" levelstat: "1:04" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:59" level: "E3M4s" levelstat: "0:59" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "44:85" level: "E3M5" levelstat: "44:85" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "57:11" level: "E3M6" levelstat: "57:11" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:19" level: "E3M7" levelstat: "1:19" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "32:74" level: "E3M9" levelstat: "32:74" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E3M1" levelstat: "0:28" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E3M1" levelstat: "0:30" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:33" level: "E3M1" levelstat: "0:33" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:51" level: "E3M2" levelstat: "0:51" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:15" level: "E3M3" levelstat: "1:15" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:05" level: "E3M3" levelstat: "2:05" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:07" level: "E3M4" levelstat: "2:07" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:32" level: "E3M4s" levelstat: "2:32" category_name: "Pacifist" video_link: "" players: "Lucas Marincak" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:06" level: "E3M5" levelstat: "1:06" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:06" level: "E3M6" levelstat: "1:06" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:13" level: "E3M7" levelstat: "2:13" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:40" level: "E3M9" levelstat: "0:40" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:26" level: "E3M1" levelstat: "0:26" category_name: "SM Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E3M1" levelstat: "0:28" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:32" level: "E3M1" levelstat: "0:32" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:31" level: "E3M2" levelstat: "0:31" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:40" level: "E3M2" levelstat: "0:40" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:46" level: "E3M2" levelstat: "0:46" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E3M3" levelstat: "1:13" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:19" level: "E3M4" levelstat: "1:19" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E3M4s" levelstat: "1:14" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:55" level: "E3M5" levelstat: "0:55" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:57" level: "E3M5" levelstat: "0:57" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:58" level: "E3M6" levelstat: "0:58" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:07" level: "E3M6" levelstat: "1:07" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:17" level: "E3M6" levelstat: "1:17" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:39" level: "E3M7" levelstat: "1:39" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:41" level: "E3M7" levelstat: "1:41" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:58" level: "E3M7" levelstat: "1:58" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:54" level: "E3M8" levelstat: "0:54" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:12" level: "E3M8" levelstat: "1:12" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E3M8" levelstat: "1:13" category_name: "SM Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E3M8" levelstat: "1:20" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:34" level: "E3M9" levelstat: "0:34" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "10:17" level: "E3M1" levelstat: "10:17" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:55" level: "E3M8" levelstat: "3:55" category_name: "Tyson" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:28" level: "E4M1" levelstat: "1:28" category_name: "BP Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:35" level: "E4M1" levelstat: "1:35" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:16" level: "E4M1" levelstat: "2:16" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E4M2" levelstat: "1:13" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:26" level: "E4M2" levelstat: "1:26" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:54" level: "E4M2" levelstat: "1:54" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:04" level: "E4M2" levelstat: "3:04" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:05" level: "E4M3" levelstat: "2:05" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:40" level: "E4M3" levelstat: "2:40" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E4M4" levelstat: "0:28" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E4M4" levelstat: "0:30" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:00" level: "E4M4" levelstat: "1:00" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:34" level: "E4M4s" levelstat: "1:34" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:46" level: "E4M5" levelstat: "1:46" category_name: "BP Speed" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:00" level: "E4M5" levelstat: "2:00" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:17" level: "E4M5" levelstat: "2:17" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:55" level: "E4M5" levelstat: "2:55" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:30" level: "E4M5" levelstat: "4:30" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E4M6" levelstat: "1:20" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:41" level: "E4M7" levelstat: "1:41" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:17" level: "E4M8" levelstat: "3:17" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:51" level: "E4M8" levelstat: "3:51" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:15" level: "E4M9" levelstat: "2:15" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "12:15" level: "E4M1" levelstat: "12:15" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "13:02" level: "E4M1" levelstat: "13:02" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:57" level: "E4M2" levelstat: "7:57" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "14:16" level: "E4M3" levelstat: "14:16" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:06" level: "E4M4" levelstat: "11:06" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:06" level: "E4M5" levelstat: "9:06" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:10" level: "E4M5" levelstat: "9:10" category_name: "BP Max" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "13:20" level: "E4M5" levelstat: "13:20" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "12:07" level: "E4M6" levelstat: "12:07" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:45" level: "E4M6" levelstat: "4:45" category_name: "BP Max" video_link: "" players: "Mikhail Volkov" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "13:44" level: "E4M7" levelstat: "13:44" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:44" level: "E4M8" levelstat: "3:44" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "13:18" level: "E4M9" levelstat: "13:18" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:47" level: "E4M1" levelstat: "11:47" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:21" level: "E4M2" levelstat: "11:21" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:38" level: "E4M3" levelstat: "9:38" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:06" level: "E4M4" levelstat: "9:06" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "10:13" level: "E4M5" levelstat: "10:13" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "10:41" level: "E4M7" levelstat: "10:41" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:50" level: "E4M8" levelstat: "3:50" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:03" level: "E4M8" levelstat: "4:03" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:43" level: "E4M9" levelstat: "11:43" category_name: "SM Max" video_link: "" players: "William Huber" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:05" level: "E4M1" levelstat: "2:05" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:12" level: "E4M2" levelstat: "1:12" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:22" level: "E4M3" levelstat: "2:22" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E4M4" levelstat: "0:28" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:30" level: "E4M4s" levelstat: "1:30" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:01" level: "E4M5" levelstat: "2:01" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:26" level: "E4M6" levelstat: "1:26" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:41" level: "E4M7" levelstat: "1:41" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:07" level: "E4M8" levelstat: "2:07" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E4M1" levelstat: "1:03" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E4M2" levelstat: "0:30" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:05" level: "E4M2" levelstat: "1:05" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:08" level: "E4M2" levelstat: "1:08" category_name: "NoMo" video_link: "" players: "PVS" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:46" level: "E4M3" levelstat: "1:46" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "24:45" level: "E4M4" levelstat: "24:45" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "25:60" level: "E4M4" levelstat: "25:60" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "26:91" level: "E4M4" levelstat: "26:91" category_name: "NoMo" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:15" level: "E4M4s" levelstat: "1:15" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:19" level: "E4M5" levelstat: "1:19" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E4M6" levelstat: "1:03" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:05" level: "E4M7" levelstat: "1:05" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E4M7" levelstat: "1:14" category_name: "NoMo" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:34" level: "E4M9" levelstat: "1:34" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:50" level: "E4M9" levelstat: "1:50" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:47" level: "E4M1" levelstat: "3:47" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:19" level: "E4M2" levelstat: "4:19" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:03" level: "E4M4s" levelstat: "2:03" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:51" level: "E4M5" levelstat: "1:51" category_name: "Pacifist" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:20" level: "E4M5" levelstat: "2:20" category_name: "Pacifist" video_link: "" players: "Xit Vono" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:38" level: "E4M1" levelstat: "1:38" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:39" level: "E4M1" levelstat: "2:39" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:32" level: "E4M2" levelstat: "0:32" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:12" level: "E4M2" levelstat: "1:12" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:16" level: "E4M2" levelstat: "1:16" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:28" level: "E4M2" levelstat: "1:28" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:58" level: "E4M3" levelstat: "1:58" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:52" level: "E4M3" levelstat: "2:52" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:27" level: "E4M4" levelstat: "0:27" category_name: "SM Speed" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:28" level: "E4M4" levelstat: "0:28" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:29" level: "E4M4" levelstat: "0:29" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:31" level: "E4M4" levelstat: "0:31" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:55" level: "E4M4" levelstat: "0:55" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:25" level: "E4M4" levelstat: "1:25" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:43" level: "E4M4s" levelstat: "1:43" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:35" level: "E4M5" levelstat: "1:35" category_name: "SM Speed" video_link: "" players: "Radek Pecka" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:59" level: "E4M5" levelstat: "1:59" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:24" level: "E4M6" levelstat: "1:24" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:54" level: "E4M6" levelstat: "1:54" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:21" level: "E4M7" levelstat: "1:21" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:51" level: "E4M7" levelstat: "2:51" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:52" level: "E4M8" levelstat: "1:52" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:14" level: "E4M8" levelstat: "3:14" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:19" level: "E4M9" levelstat: "2:19" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:49" level: "E4M9" levelstat: "3:49" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:01" level: "E5M1" levelstat: "2:01" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:51" level: "E5M2" levelstat: "1:51" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:42" level: "E5M3" levelstat: "0:42" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:38" level: "E5M3" levelstat: "1:38" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:51" level: "E5M3s" levelstat: "0:51" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:35" level: "E5M4" levelstat: "1:35" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:53" level: "E5M5" levelstat: "2:53" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:19" level: "E5M6" levelstat: "2:19" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:26" level: "E5M7" levelstat: "2:26" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:08" level: "E5M8" levelstat: "6:08" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:18" level: "E5M9" levelstat: "2:18" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "12:01" level: "E5M1" levelstat: "12:01" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:44" level: "E5M2" levelstat: "7:44" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "8:03" level: "E5M3" levelstat: "8:03" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:30" level: "E5M4" levelstat: "9:30" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "12:39" level: "E5M6" levelstat: "12:39" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "13:04" level: "E5M7" levelstat: "13:04" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "6:08" level: "E5M8" levelstat: "6:08" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:55" level: "E5M9" levelstat: "11:55" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "14:19" level: "E5M1" levelstat: "14:19" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:44" level: "E5M2" levelstat: "7:44" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:27" level: "E5M3" levelstat: "7:27" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "9:19" level: "E5M4" levelstat: "9:19" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "18:45" level: "E5M5" levelstat: "18:45" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:57" level: "E5M6" levelstat: "11:57" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:27" level: "E5M7" levelstat: "11:27" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:00" level: "E5M8" levelstat: "4:00" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:09" level: "E5M8" levelstat: "4:09" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:57" level: "E5M9" levelstat: "11:57" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:16" level: "E5M1" levelstat: "2:16" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:48" level: "E5M2" levelstat: "1:48" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:41" level: "E5M3" levelstat: "0:41" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:03" level: "E5M3" levelstat: "1:03" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:55" level: "E5M3s" levelstat: "0:55" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:36" level: "E5M4" levelstat: "1:36" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:50" level: "E5M5" levelstat: "2:50" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:56" level: "E5M7" levelstat: "0:56" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:55" level: "E5M7" levelstat: "1:55" category_name: "NM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:20" level: "E5M7" levelstat: "2:20" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:59" level: "E5M1" levelstat: "0:59" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:56" level: "E5M2" levelstat: "0:56" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:01" level: "E5M2" levelstat: "1:01" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:08" level: "E5M2" levelstat: "1:08" category_name: "NoMo" video_link: "" players: "PVS" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:38" level: "E5M3" levelstat: "0:38" category_name: "NoMo" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:46" level: "E5M3s" levelstat: "0:46" category_name: "NoMo" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:27" level: "E5M4" levelstat: "0:27" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:34" level: "E5M5" levelstat: "1:34" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:14" level: "E5M6" levelstat: "1:14" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "48:62" level: "E5M7" levelstat: "48:62" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:32" level: "E5M9" levelstat: "1:32" category_name: "NoMo" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:45" level: "E5M3" levelstat: "0:45" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:56" level: "E5M3s" levelstat: "0:56" category_name: "Pacifist" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:57" level: "E5M1" levelstat: "1:57" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:12" level: "E5M1" levelstat: "4:12" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:47" level: "E5M2" levelstat: "1:47" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:44" level: "E5M2" levelstat: "3:44" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:41" level: "E5M3" levelstat: "0:41" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:43" level: "E5M3" levelstat: "0:43" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:20" level: "E5M3" levelstat: "1:20" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:49" level: "E5M3s" levelstat: "0:49" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:30" level: "E5M4" levelstat: "0:30" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:32" level: "E5M4" levelstat: "1:32" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:35" level: "E5M5" levelstat: "2:35" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:09" level: "E5M5" levelstat: "3:09" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:48" level: "E5M5" levelstat: "5:48" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:52" level: "E5M6" levelstat: "1:52" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:15" level: "E5M6" levelstat: "2:15" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:50" level: "E5M7" levelstat: "0:50" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:49" level: "E5M7" levelstat: "1:49" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:58" level: "E5M7" levelstat: "1:58" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:50" level: "E5M8" levelstat: "2:50" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "3:36" level: "E5M8" levelstat: "3:36" category_name: "SM Speed" video_link: "" players: "JC" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:00" level: "E5M8" levelstat: "4:00" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "4:09" level: "E5M8" levelstat: "4:09" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "2:12" level: "E5M9" levelstat: "2:12" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:21" level: "E6M1" levelstat: "0:21" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:23" level: "E6M1" levelstat: "0:23" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:24" level: "E6M1" levelstat: "0:24" category_name: "BP Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:30" level: "E6M2" levelstat: "1:30" category_name: "BP Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:10" level: "E6M1" levelstat: "5:10" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "11:27" level: "E6M2" levelstat: "11:27" category_name: "BP Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:32" level: "E6M3" levelstat: "1:32" category_name: "BP Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "5:44" level: "E6M1" levelstat: "5:44" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "7:34" level: "E6M2" levelstat: "7:34" category_name: "SM Max" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:31" level: "E6M3" levelstat: "1:31" category_name: "SM Max" video_link: "" players: "Bruno Vergílio" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:22" level: "E6M1" levelstat: "0:22" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:26" level: "E6M2" levelstat: "1:26" category_name: "NM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "18:80" level: "E6M1" levelstat: "18:80" category_name: "NoMo" video_link: "" players: "Kimo Xvirus" engine: "Heretic v1.3 + vv"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "19:65" level: "E6M1" levelstat: "19:65" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "47:39" level: "E6M2" levelstat: "47:39" category_name: "NoMo" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E6M2" levelstat: "1:13" category_name: "Pacifist" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:21" level: "E6M1" levelstat: "0:21" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:22" level: "E6M1" levelstat: "0:22" category_name: "SM Speed" video_link: "" players: "Vincent Catalaa" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "0:56" level: "E6M2" levelstat: "0:56" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
+post demo = tas: "0" guys: "1" recorded_at: "" file: "" version: "0" wad_username: "heretic" time: "1:13" level: "E6M2" levelstat: "1:13" category_name: "SM Speed" video_link: "" players: "QWERTY" engine: "Heretic v1.3"
