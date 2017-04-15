@@ -37,7 +37,7 @@ files.each do |file_name|
     time.insert(-3, ':')
   end
   success = false
-  result = {tas: 0, guys: 1, file: nil, version: 0, engine: nil,
+  result = {tas: 0, guys: 1, file: file_name, version: 0, engine: nil,
             wad_username: 'heretic', time: time, level: level,
             levelstat: time, category_name: category, video_link: nil}
   sub_files = `unzip -o #{file_name}`.lines.collect { |i| i.scan(/[^\s]+/)[1] }.select { |i| i =~ /txt|lmp/i }
